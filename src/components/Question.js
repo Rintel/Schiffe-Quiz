@@ -5,7 +5,7 @@ const Question = ({ question, answers, handleAnswerClick }) => {
   return (
     <li className="question">
       <h2 className="question-title">
-        {question}
+        <img src={question} width="30%"/>
       </h2>
       <ol className="question-answers">
         {answers.map(answer => {

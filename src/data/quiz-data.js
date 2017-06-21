@@ -1,6 +1,6 @@
 export const questions = [
   {
-    "question": "Wann wurde der Schiffspropeller erfunden??",
+    "question": "http://resources.digicult-museen.net/dam/provided_image/m57d825218aee2",
     "answers": [
       "1827",
       "1872",
@@ -10,7 +10,7 @@ export const questions = [
     "correct": 3
   },
   {
-    "question": "Welcher berühmte Seeräuber wurde im Jahr 1401 im Hamburger Hafen enthauptet?",
+    "question": "http://resources.digicult-museen.net/dam/provided_image/m57d825220573b",
     "answers": [
       "Edward (Blackbeard) Teach",
       "Klaus Störtebecker",
@@ -20,7 +20,7 @@ export const questions = [
     "correct": 3
   },
   {
-    "question": "Wie heißt der Gott des Meeres in der römischen Mythologie?",
+    "question": "http://resources.digicult-museen.net/dam/provided_image/m57d82522669eb",
     "answers": [
       "Poseidon",
       "Jupiter",

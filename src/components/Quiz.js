@@ -6,9 +6,6 @@ const Quiz = ({ step, questions, totalQuestions, score, handleAnswerClick }) => 
     <div className="wrapper">
       <header>
         <div className="question-count">
-          <h2>Question</h2>
-          <div className="question-number">{step}</div>
-          <div className="description">of<span className="total-question-number">{totalQuestions}</span></div>
         </div>
         <h1>Schiffe Quiz</h1>
         <div className="score-container">
