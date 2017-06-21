@@ -124,7 +124,7 @@ header {
   top: -2px;
 }
 .wrong {
-  color: #333;
+  color: white;
   background: rgba(236,100,75,.5);
   animation: shake 0.5s cubic-bezier(.35,.05,.20,.99) both;
 }
