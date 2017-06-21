@@ -2,31 +2,31 @@ export const questions = [
   {
     "question": "http://resources.digicult-museen.net/dam/provided_image/m57d825218aee2",
     "answers": [
-      "1827",
-      "1872",
-      "1817",
-      "1942"
+      "This is aswer a",
+      "This is aswer b",
+      "This is aswer c",
+      "This is the correct aswer"
     ],
     "correct": 3
   },
   {
     "question": "http://resources.digicult-museen.net/dam/provided_image/m57d825220573b",
     "answers": [
-      "Edward (Blackbeard) Teach",
-      "Klaus Störtebecker",
-      "Sir Henry Morgan",
-      "Dennis Ritchie"
+      "This is aswer a",
+      "This is aswer b",
+      "This is aswer c",
+      "This is the correct aswer"
     ],
     "correct": 3
   },
   {
     "question": "http://resources.digicult-museen.net/dam/provided_image/m57d82522669eb",
     "answers": [
-      "Poseidon",
-      "Jupiter",
-      "Neptun",
-      "Aquaman"
+      "This is aswer a",
+      "This is aswer b",
+      "This is the correct aswer",
+      "This is aswer d"
     ],
-    "correct": 3
+    "correct": 2
   }
 ]

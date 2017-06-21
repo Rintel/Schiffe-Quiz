@@ -7,6 +7,7 @@ const Question = ({ question, answers, handleAnswerClick }) => {
       <h2 className="question-title">
         <img src={question} width="30%"/>
       </h2>
+      <h4 className="question-title">This is a Question</h4>
       <ol className="question-answers">
         {answers.map(answer => {
           return (
