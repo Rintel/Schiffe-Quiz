@@ -7,7 +7,7 @@ export const questions = [
       "1817",
       "1942"
     ],
-    "correct": 1
+    "correct": 3
   },
   {
     "question": "Welcher berühmte Seeräuber wurde im Jahr 1401 im Hamburger Hafen enthauptet?",
@@ -17,7 +17,7 @@ export const questions = [
       "Sir Henry Morgan",
       "Dennis Ritchie"
     ],
-    "correct": 2
+    "correct": 3
   },
   {
     "question": "Wie heißt der Gott des Meeres in der römischen Mythologie?",
