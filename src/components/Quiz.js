@@ -1,55 +1,42 @@
-import React, { Component } from 'react';
-import ReactCSSTransitionGroup from 'react-addons-css-transition-group';
-import Question from '../components/Question';
-import QuestionCount from '../components/QuestionCount';
-import AnswerOption from '../components/AnswerOption';
+import React, { PropTypes } from 'react';
+import QuestionList from './QuestionList';
 
-function Quiz(props) {
-
-  function renderAnswerOptions(key) {
-    return (
-      <AnswerOption
-        key={key.content}
-        answerContent={key.content}
-        answerType={key.type}
-        answer={props.answer}
-        questionId={props.questionId}
-        onAnswerSelected={props.onAnswerSelected}
-      />
-    );
-  }
-
+const Quiz = ({ step, questions, totalQuestions, score, handleAnswerClick }) => {
   return (
-    <ReactCSSTransitionGroup
-      className="container"
-      component="div"
-      transitionName="fade"
-      transitionEnterTimeout={800}
-      transitionLeaveTimeout={500}
-      transitionAppear
-      transitionAppearTimeout={500}
-    >
-      <div key={props.questionId}>
-        <QuestionCount
-          counter={props.questionId}
-          total={props.questionTotal}
-        />
-        <Question content={props.question} />
-        <ul className="answerOptions">
-          {props.answerOptions.map(renderAnswerOptions)}
-        </ul>
+    <div className="wrapper">
+      <header>
+        <div className="question-count">
+          <h2>Question</h2>
+          <div className="question-number">{step}</div>
+          <div className="description">of<span className="total-question-number">{totalQuestions}</span></div>
+        </div>
+        <h1>Schiffe Quiz</h1>
+        <div className="score-container">
+          <h2>Score</h2>
+          <div className="score">{score}</div>
+          <div className="description">points</div>
+        </div>
+      </header>
+      <div className="correct-modal">
+        <div className="praise">Correct!</div>
+        <div className="bonus"></div>
       </div>
-    </ReactCSSTransitionGroup>
+      <div className="questions">
+        <QuestionList
+          questions={questions}
+          handleAnswerClick={handleAnswerClick}
+        />
+      </div>
+    </div>
   );
 }
 
 Quiz.propTypes = {
-  answer: React.PropTypes.string.isRequired,
-  answerOptions: React.PropTypes.array.isRequired,
-  question: React.PropTypes.string.isRequired,
-  questionId: React.PropTypes.number.isRequired,
-  questionTotal: React.PropTypes.number.isRequired,
-  onAnswerSelected: React.PropTypes.func.isRequired
+  step: PropTypes.number.isRequired,
+  questions: PropTypes.array.isRequired,
+  totalQuestions: PropTypes.number.isRequired,
+  score: PropTypes.number.isRequired,
+  handleAnswerClick: PropTypes.func.isRequired
 };
 
 export default Quiz;
