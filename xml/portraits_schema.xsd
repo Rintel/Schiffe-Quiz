@@ -1,40 +1,59 @@
 <?xml version="1.0"?>
 <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-	<xsd:element name="lido:lidoWrap">
-		<xsd:complexType>
-			<xsd:sequence>
-				<xsd:element name="lido:lido" minOccurs="0" maxOccurs="unbounded">
-					<xsd:complexType>
-						<xsd:sequence>
-							<xs:complexType name="lido:vitalDatesActor">
-								<xs:sequence>
-									<xs:element name="lido:earliestDate"/>
-									<xs:element name="lido:latestDate"/>
-								</xs:sequence>
-							</xs:complexType>
-							<xs:complexType name="lido:resourceSet">
-								<xs:sequence>
-									<xs:complexType name="resourceRepresentation">
-										<xs:sequence>
-											<xs:element name="lido:linkResource"/>
-										</xs:sequence>
-									</xs:complexType>
-								</xs:sequence>
-							</xs:complexType>
-							<xsd:element name="lido:descriptiveNoteValue" type="xsd:string"/>
-							<xsd:element name="lido:displayMaterialsTech" type="xsd:string"/>
-							<xsd:element name="lido:displayActorInRole" type="xsd:string"/>
-							<xs:complexType name="lido:date">
-								<xs:sequence>
-									<xs:element name="lido:earliestDate"/>
-									<xs:element name="lido:latestDate"/>
-								</xs:sequence>
-							</xs:complexType>
-							<xsd:element name="displayMaterialsTech" type="xsd:string"/>
-						</xsd:sequence>
-					</xsd:complexType>
-				</xsd:element>
-			</xsd:sequence>
-		</xsd:complexType>
-	</xsd:element>
+    <xsd:element name="wrap">
+        <xsd:complexType>
+            <xsd:sequence>
+                <xsd:element name="painting" minOccurs="0" maxOccurs="unbounded">
+                    <xsd:complexType>
+                        <xsd:sequence>
+
+                            <xsd:element name="title" type="xsd:string"/>
+
+                            <xsd:element name="actor">
+                                <xsd:complexType>
+                                    <xsd:sequence>
+                                        <xsd:element name="name" type="xsd:string"/>
+                                        <xsd:element name="birthYear" type="xsd:gYear"/>
+                                        <xsd:element name="deathYear" type="xsd:gYear"/>
+                                    </xsd:sequence>
+                                </xsd:complexType>
+                            </xsd:element>
+
+                            <xsd:element name="resourceLink" type="xsd:anyURI"/>
+
+                            <xsd:element name="description" type="xsd:string"/>
+
+                            <xsd:element name="date">
+                                <xsd:complexType>
+                                    <xsd:sequence>
+                                        <xsd:element name="earliestDate" type="xsd:gYear"/>
+                                        <xsd:element name="latestDate" type="xsd:gYear"/>
+                                    </xsd:sequence>
+                                </xsd:complexType>
+                            </xsd:element>
+
+                            <xsd:element name="materials">
+                                <xsd:complexType>
+                                    <xsd:sequence>
+                                        <xsd:element name="material" type="xsd:string" minOccurs="1"
+                                                     maxOccurs="unbounded"/>
+                                    </xsd:sequence>
+                                </xsd:complexType>
+                            </xsd:element>
+
+                            <xsd:element name="technics">
+                                <xsd:complexType>
+                                    <xsd:sequence>
+                                        <xsd:element name="technic" type="xsd:string" minOccurs="1"
+                                                     maxOccurs="unbounded"/>
+                                    </xsd:sequence>
+                                </xsd:complexType>
+                            </xsd:element>
+
+                        </xsd:sequence>
+                    </xsd:complexType>
+                </xsd:element>
+            </xsd:sequence>
+        </xsd:complexType>
+    </xsd:element>
 </xsd:schema>
