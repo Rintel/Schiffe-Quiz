@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<xsd:element name="lido:lidoWrap">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element name="lido:lido" minOccurs="0" maxOccurs="unbounded">
+					<xsd:complexType>
+						<xsd:sequence>
+              <xs:complexType name="lido:vitalDatesActor">
+                <xs:sequence>
+                  <xs:element name="lido:earliestDate"/>
+                  <xs:element name="lido:latestDate"/>
+                </xs:sequence>
+              </xs:complexType>
+							<xs:complexType name="lido:resourceSet">
+								<xs:sequence>
+									<xs:complexType name="resourceRepresentation">
+										<xs:sequence>
+											<xs:element name="lido:linkResource"/>
+										</xs:sequence>
+									</xs:complexType>
+								</xs:sequence>
+							</xs:complexType>
+							<xsd:element name="lido:descriptiveNoteValue" type="xsd:string"/>
+							<xsd:element name="lido:displayMaterialsTech" type="xsd:string"/>
+              <xsd:element name="lido:displayActorInRole" type="xsd:string"/>
+              <xs:complexType name="lido:date">
+                <xs:sequence>
+                  <xs:element name="lido:earliestDate"/>
+                  <xs:element name="lido:latestDate"/>
+                </xs:sequence>
+              </xs:complexType>
+							<xsd:element name="displayMaterialsTech" type="xsd:string"/>
+						</xsd:sequence>
+					</xsd:complexType>
+				</xsd:element>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+</xsd:schema>
