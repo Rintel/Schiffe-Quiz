@@ -1,59 +1,52 @@
 <?xml version="1.0"?>
-<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-    <xsd:element name="wrap">
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" targetNamespace="http://example.com/Portraits"
+            xmlns:p="http://example.com/Portraits" elementFormDefault="qualified">
+    <xsd:element name="gallery">
         <xsd:complexType>
             <xsd:sequence>
                 <xsd:element name="painting" minOccurs="0" maxOccurs="unbounded">
                     <xsd:complexType>
                         <xsd:sequence>
-
                             <xsd:element name="title" type="xsd:string"/>
-
-                            <xsd:element name="actor">
-                                <xsd:complexType>
-                                    <xsd:sequence>
-                                        <xsd:element name="name" type="xsd:string"/>
-                                        <xsd:element name="birthYear" type="xsd:gYear"/>
-                                        <xsd:element name="deathYear" type="xsd:gYear"/>
-                                    </xsd:sequence>
-                                </xsd:complexType>
-                            </xsd:element>
-
-                            <xsd:element name="resourceLink" type="xsd:anyURI"/>
-
                             <xsd:element name="description" type="xsd:string"/>
-
-                            <xsd:element name="date">
-                                <xsd:complexType>
-                                    <xsd:sequence>
-                                        <xsd:element name="earliestDate" type="xsd:gYear"/>
-                                        <xsd:element name="latestDate" type="xsd:gYear"/>
-                                    </xsd:sequence>
-                                </xsd:complexType>
-                            </xsd:element>
-
-                            <xsd:element name="materials">
-                                <xsd:complexType>
-                                    <xsd:sequence>
-                                        <xsd:element name="material" type="xsd:string" minOccurs="1"
-                                                     maxOccurs="unbounded"/>
-                                    </xsd:sequence>
-                                </xsd:complexType>
-                            </xsd:element>
-
-                            <xsd:element name="technics">
-                                <xsd:complexType>
-                                    <xsd:sequence>
-                                        <xsd:element name="technic" type="xsd:string" minOccurs="1"
-                                                     maxOccurs="unbounded"/>
-                                    </xsd:sequence>
-                                </xsd:complexType>
-                            </xsd:element>
-
+                            <xsd:element name="actor" type="p:actorComplex"/>
+                            <xsd:element name="date" type="p:dateComplex"/>
+                            <xsd:element name="materials_techniques" type="p:materials_techniquesComplex"/>
+                            <xsd:element name="resourceLink" type="xsd:anyURI"/>
                         </xsd:sequence>
                     </xsd:complexType>
                 </xsd:element>
             </xsd:sequence>
         </xsd:complexType>
     </xsd:element>
+
+    <xsd:complexType name="actorComplex">
+        <xsd:sequence>
+            <xsd:element name="name" type="xsd:string"/>
+            <xsd:element name="birthYear" type="p:year"/>
+            <xsd:element name="deathYear" type="p:year"/>
+        </xsd:sequence>
+    </xsd:complexType>
+
+    <xsd:complexType name="dateComplex">
+        <xsd:sequence>
+            <xsd:element name="earliestDate" type="p:year"/>
+            <xsd:element name="latestDate" type="p:year"/>
+        </xsd:sequence>
+    </xsd:complexType>
+
+    <xsd:complexType name="materials_techniquesComplex">
+        <xsd:sequence>
+            <xsd:element name="material" type="xsd:string" minOccurs="0"
+                         maxOccurs="unbounded"/>
+            <xsd:element name="technique" type="xsd:string" minOccurs="0"
+                         maxOccurs="unbounded"/>
+        </xsd:sequence>
+    </xsd:complexType>
+
+    <xsd:simpleType name="year">
+        <xsd:restriction base="xsd:string">
+            <xsd:pattern value="([0-9]{4})?"/>
+        </xsd:restriction>
+    </xsd:simpleType>
 </xsd:schema>
