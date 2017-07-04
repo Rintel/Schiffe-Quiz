@@ -30,7 +30,7 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding-top: 20px;
+  padding-top: 10px;
 }
 
 .question-title {
@@ -49,7 +49,7 @@ header {
   font-weight: 400;
 }
 .score, .question-number {
-  font-size: 4em;
+  font-size: 3em;
   font-weight: 100;
 }
 .total-question-number {
@@ -60,7 +60,7 @@ header {
 }
 .questions {
   width: 85%;
-  margin: 35px auto 0;
+  margin: 0px auto 0;
 }
 .question {
   font-size: 2em;
@@ -76,6 +76,11 @@ header {
   padding: .5em;
   cursor: pointer;
   border: 5px solid transparent;
+}
+.question-container ul {
+  display:table;
+  margin:0
+  auto;
 }
 .answer {
   font-size: 1em;

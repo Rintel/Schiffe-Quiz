@@ -31,5 +31,8 @@
     "quiz",
     "test",
     "react-component"
-  ]
+  ],
+  "dependencies": {
+    "x-query": "^0.2.6"
+  }
 }

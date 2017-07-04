@@ -1,5 +1,6 @@
 export const questions = [
   {
+    "url": "http://resources.digicult-museen.net/dam/provided_image/m57d825218aee2",
     "question": "http://resources.digicult-museen.net/dam/provided_image/m57d825218aee2",
     "answers": [
       "This is aswer a",
@@ -10,6 +11,7 @@ export const questions = [
     "correct": 3
   },
   {
+    "url": "http://resources.digicult-museen.net/dam/provided_image/m57d825220573b",
     "question": "http://resources.digicult-museen.net/dam/provided_image/m57d825220573b",
     "answers": [
       "This is aswer a",
@@ -20,6 +22,7 @@ export const questions = [
     "correct": 3
   },
   {
+    "url": "http://resources.digicult-museen.net/dam/provided_image/m57d82522669eb",
     "question": "http://resources.digicult-museen.net/dam/provided_image/m57d82522669eb",
     "answers": [
       "This is aswer a",

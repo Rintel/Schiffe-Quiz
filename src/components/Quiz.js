@@ -5,8 +5,7 @@ const Quiz = ({ step, questions, totalQuestions, score, handleAnswerClick }) => 
   return (
     <div className="wrapper">
       <header>
-        <div className="question-count">
-        </div>
+        <div className="question-count" />
         <h1>Schiffe Quiz</h1>
         <div className="score-container">
           <h2>Score</h2>

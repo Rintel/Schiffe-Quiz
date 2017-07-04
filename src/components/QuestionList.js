@@ -10,6 +10,7 @@ const QuestionList = ({ questions, handleAnswerClick }) => {
             key={question.question}
             question={question.question}
             answers={question.answers}
+            url={question.url}
             handleAnswerClick={handleAnswerClick}
           />
         );
