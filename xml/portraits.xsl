@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xsl:stylesheet version="1.0"
+<xsl:stylesheet version="2.0"
                 xmlns:lido="http://www.lido-schema.org"
                 xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
                 xmlns:p="http://example.com/Portraits">
     <xsl:output method="xml" indent="yes"/>
+    <xsl:import-schema schema-location="portraits_schema.xsd"/>
 
     <xsl:template match="lido:lidoWrap">
-        <p:gallery xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                     xsi:schemaLocation="http://example.com/Portraits portraits_schema.xsd">
-            <xsl:for-each select=" lido:lido">
+        <p:gallery xsl:validation="strict" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://example.com/Portraits portraits_schema.xsd">
+            <xsl:for-each select="lido:lido">
                 <p:painting>
                     <xsl:apply-templates select="lido:descriptiveMetadata/lido:objectIdentificationWrap"/>
 
@@ -16,7 +16,7 @@
 
                     <p:resourceLink>
                         <xsl:value-of
-                                select="lido:administrativeMetadata/lido:resourceWrap/lido:resourceSet/lido:resourceRepresentation[@lido:type='provided_image']/lido:linkResource"/>
+                                select="lido:administrativeMetadata/lido:resourceWrap/lido:resourceSet[@lido:sortorder='1']/lido:resourceRepresentation[@lido:type='provided_image']/lido:linkResource"/>
                     </p:resourceLink>
                 </p:painting>
             </xsl:for-each>
@@ -25,11 +25,11 @@
 
     <xsl:template match="lido:objectIdentificationWrap">
         <p:title>
-            <xsl:value-of select="lido:titleWrap/lido:titleSet/lido:appellationValue"/>
+            <xsl:value-of select="replace(lido:titleWrap/lido:titleSet/lido:appellationValue[@lido:pref='preferred'], 'Schaubrigg', 'Schnaubrigg')"/>
         </p:title>
+
         <p:description>
-            <xsl:value-of
-                    select="lido:objectDescriptionWrap/lido:objectDescriptionSet[@lido:type='Beschreibung']/lido:descriptiveNoteValue"/>
+            <xsl:value-of select="normalize-space(lido:objectDescriptionWrap/lido:objectDescriptionSet[@lido:type='Beschreibung']/lido:descriptiveNoteValue)"/>
         </p:description>
     </xsl:template>
 
@@ -76,13 +76,13 @@
 
     <xsl:template match="lido:termMaterialsTech[@lido:type='Material']">
         <p:material>
-            <xsl:value-of select="lido:term"/>
+            <xsl:value-of select="lido:term[@lido:pref='preferred']"/>
         </p:material>
     </xsl:template>
 
     <xsl:template match="lido:termMaterialsTech[@lido:type='Technik']">
         <p:technique>
-            <xsl:value-of select="lido:term"/>
+            <xsl:value-of select="lido:term[@lido:pref='preferred']"/>
         </p:technique>
     </xsl:template>
 </xsl:stylesheet>

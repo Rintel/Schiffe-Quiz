@@ -1,1032 +1,672 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<p:gallery xsi:schemaLocation="http://example.com/Portraits portraits_schema.xsd"
-        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:p="http://example.com/Portraits">
-    <p:painting>
-        <p:title>Schnaubrigg WILHELM</p:title>
-        <p:description>
-            Schiff von Backbordseite gezeigt, mit allen Segeln vor dem Wind auf
-            Steuerbordbug fahrend. Groß- und Briggsegel sind teilweise aufgegeit.
-            Flaggen: Dannebrog mit Zirkel „FR VI“ und Krone, Kriegswimpel Dänemarks.
-            Als Galionsfigur ein schreitender Mann mit einem Brief in der Hand.
-            10 Leute sind an Deck.
-            Im Hintergrund links Helgoland und kleineres Segelfahrzeug, rechts ein Kutter mit dänischem
-            Kriegswimpel und zwei Pfahlewer.
-        </p:description>
-        <p:actor>
-            <p:name>Schwartze, G. M.</p:name>
-            <p:birthYear/>
-            <p:deathYear/>
-        </p:actor>
-        <p:date>
-            <p:earliestDate>1817</p:earliestDate>
-            <p:latestDate>1817</p:latestDate>
-        </p:date>
-        <p:materials_techniques>
-            <p:material>Büttenpapier</p:material>
-            <p:technique>Federzeichnung</p:technique>
-            <p:technique>Aquarell</p:technique>
-            <p:technique>Gouache</p:technique>
-        </p:materials_techniques>
-        <p:resourceLink>
-            http://resources.digicult-museen.net/dam/provided_image/m57d82520ab637
-        </p:resourceLink>
-    </p:painting>
-    <p:painting>
-        <p:title>Brigg CATHARINA</p:title>
-        <p:description>
-            Das Schiff wird von Backbord vorn in Orkansituation gezeigt. Klüver,
-            Groß- und Großmarssegel sind zerfetzt, die Royalsegel sind aufgetucht, das
-            Focksegel ist aufgegeit, und das schon beschädigte Vormarssegel wird gerade aufgegeit.
-            7 Personen auf dem Schiff, davon 2 in den Wanten und 2 in den Rahen.
-        </p:description>
-        <p:actor>
-            <p:name>Truelsen, Nis Nissen</p:name>
-            <p:birthYear>1792</p:birthYear>
-            <p:deathYear>1862</p:deathYear>
-        </p:actor>
-        <p:date>
-            <p:earliestDate>1854</p:earliestDate>
-            <p:latestDate>1859</p:latestDate>
-        </p:date>
-        <p:materials_techniques>
-            <p:material>Büttenpapier</p:material>
-            <p:technique>Federzeichnung</p:technique>
-            <p:technique>Aquarell</p:technique>
-            <p:technique>Gouache</p:technique>
-        </p:materials_techniques>
-        <p:resourceLink>
-            http://resources.digicult-museen.net/dam/provided_image/m57d825218aee2
-        </p:resourceLink>
-    </p:painting>
-    <p:painting>
-        <p:title>Brigg ANNA MARIA</p:title>
-        <p:description>
-            Schiff von Backbordseite gezeigt, unter allen Segeln einschließlich
-            der Leesegel mit Backstagsbrise vor dem Wind laufend.
-            Geführt wird der Dannebrog mit Zirkel „FR VI“, ein weißer Wimpel mit
-            gelbem Rand und den dänischen Farben mit Zirkel sowie die Dreyersche Reedereiflagge.
-            Auf dem Schiff sind Leute. Im Hintergrund links ein Blankeneser Pfahlewer, rechts Helgoland.
-        </p:description>
-        <p:actor>
-            <p:name>Böttger, Jacob Ahrend Hinrich</p:name>
-            <p:birthYear>1781</p:birthYear>
-            <p:deathYear>1860</p:deathYear>
-        </p:actor>
-        <p:date>
-            <p:earliestDate>1831</p:earliestDate>
-            <p:latestDate>1831</p:latestDate>
-        </p:date>
-        <p:materials_techniques>
-            <p:material>Papier</p:material>
-            <p:material>Grafitstift</p:material>
-            <p:technique>Federzeichnung</p:technique>
-            <p:technique>Aquarell</p:technique>
-        </p:materials_techniques>
-        <p:resourceLink>
-            http://resources.digicult-museen.net/dam/provided_image/m57d825220573b
-        </p:resourceLink>
-    </p:painting>
-    <p:painting>
-        <p:title>Brigg THEODOR</p:title>
-        <p:description>
-            Schiff von Steuerbordseite dargestellt, in Vorbereitung des Ankermanövers.
-            Bram- und Marsrahen werden gefiert und die Segel aufgegeit, die Gaffel des Briggsegels wird
-            ebenfalls gefiert. Die Vorsegel sind gefallen.
-            Flaggen: Dannebrog mit Zirkel „FR VI“ sowie im Vortopp eine blaue (wie auch
-            die dänische Flagge hell und dunkel gestreift dargestellte) Flagge mit einem mittigen
-            weißen Karree, möglicherweise die Reedereiflagge.
-            Auf dem Schiff sind 12 Mann, teilweise mit den Segelmanövern beschäftigt. Links
-            Leuchtturm und Mole von St. Thomas, rechts ein englischer Kriegskutter.
-            Das Schiff wurde noch im 18. Jh. erbaut.
-        </p:description>
-        <p:actor>
-            <p:name>unbekannt</p:name>
-            <p:birthYear/>
-            <p:deathYear/>
-        </p:actor>
-        <p:date>
-            <p:earliestDate>1808</p:earliestDate>
-            <p:latestDate>1808</p:latestDate>
-        </p:date>
-        <p:materials_techniques>
-            <p:material>Papier</p:material>
-            <p:technique>Federzeichnung</p:technique>
-            <p:technique>Aquarell</p:technique>
-        </p:materials_techniques>
-        <p:resourceLink>
-            http://resources.digicult-museen.net/dam/provided_image/m57d82522669eb
-        </p:resourceLink>
-    </p:painting>
-    <p:painting>
-        <p:title>Fregatte AEOLUS</p:title>
-        <p:description>
-            Schiff von Backbordseite gezeigt, unter Vorstengestag-, gerefftem
-            Fock-und gerefftem Besansegel am Winde fahrend.
-            An der Gaffel der Dannebrog mit Zirkel „C 7“ und Krone.
-            9 Personen an Deck, die verschiedene Arbeiten ausführen, die wegen des starken Windes,
-            ablesbar an der Besegelung und am dunklen Himmel, notwendig sind. Auf dem Vorschiff werden
-            Leinen klariert. Bei den an Deck liegenden Booten werden die Laschings nachgezogen. Vom Heck
-            hängt eine Jakobsleiter bis auf die Wasseroberfläche (eine damals übliche Präventivmaßnahme
-            zur Rettung über Bord Gespülter).
-            Links im Hintergrund gebirgige Insel, bezeichnet „CANDIA“ (= Kreta). Rechts im
-            Hintergrund dasselbe Schiff noch einmal bei starkem Wind beiliegend mit gefierten
-            Bramstengen.
-        </p:description>
-        <p:actor>
-            <p:name>unbekannt</p:name>
-            <p:birthYear/>
-            <p:deathYear/>
-        </p:actor>
-        <p:date>
-            <p:earliestDate/>
-            <p:latestDate/>
-        </p:date>
-        <p:materials_techniques>
-            <p:material>Büttenpapier</p:material>
-            <p:technique>Federzeichnung</p:technique>
-            <p:technique>Aquarell</p:technique>
-        </p:materials_techniques>
-        <p:resourceLink>
-            http://resources.digicult-museen.net/dam/provided_image/m57d82522ec2c3
-        </p:resourceLink>
-    </p:painting>
-    <p:painting>
-        <p:title>Fregatte AMPHITRITE</p:title>
-        <p:description>
-            Schiff von Steuerbordseite gezeigt, unter allen Segeln am Winde auf
-            Backbordbug segelnd; nur die Royals sind festgemacht.
-            An der Gaffel der Dannebrog mit Zirkel „C 7“ und Krone, im Kreuz- und im
-            Vortopp rote Wimpel, im Großtopp der dänische Kriegswimpel. 12 Stückpforten
-            mit Kanonen an der Steuerbordseite.
-            12 Personen an Deck.
-            Im Hintergrund links und rechts am Horizont 4 weitere Schiffe, 3 Briggs und 1 Vollschiff.
-        </p:description>
-        <p:actor>
-            <p:name>Böttger, Jacob Ahrend Hinrich</p:name>
-            <p:birthYear>1781</p:birthYear>
-            <p:deathYear>1860</p:deathYear>
-        </p:actor>
-        <p:date>
-            <p:earliestDate>1806</p:earliestDate>
-            <p:latestDate>1806</p:latestDate>
-        </p:date>
-        <p:materials_techniques>
-            <p:material>Büttenpapier</p:material>
-            <p:technique>Federzeichnung</p:technique>
-            <p:technique>Aquarell</p:technique>
-        </p:materials_techniques>
-        <p:resourceLink>
-            http://resources.digicult-museen.net/dam/provided_image/m57d825235bab2
-        </p:resourceLink>
-    </p:painting>
-    <p:painting>
-        <p:title>Schnaubrigg MELONA vor Riga</p:title>
-        <p:description>
-            Das Schiff wird von Backbordseite an der Flußbrücke der Düna
-            vor Anker liegend dargestellt. Alle Segel sind festgemacht.
-            Flaggen: englische Handelsflagge an der Gaffel, Namenswimpel im Großtopp,
-            Reedereiflagge im Vortopp, englische Lotsenflagge am Klüver.
-            15 Personen an Deck, davon eine Frau. Drei Personen beschäftigen sich mit dem Beladen.
-            Im Hintergrund die Vedute der Stadt Riga.
-            Im Gegensatz zu den üblichen Schiffsporträts wird hier neben einer vollständigen
-            Hafenszene mit Stadtansicht und Treiben auf dem Kai und an der Brücke auch das
-            Beladen des Schiffes gezeigt.
-        </p:description>
-        <p:actor>
-            <p:name>Shlei (Slie), Carl Gustav</p:name>
-            <p:birthYear/>
-            <p:deathYear/>
-        </p:actor>
-        <p:date>
-            <p:earliestDate>1826</p:earliestDate>
-            <p:latestDate>1826</p:latestDate>
-        </p:date>
-        <p:materials_techniques>
-            <p:material>Papier</p:material>
-            <p:technique>Federzeichnung</p:technique>
-            <p:technique>Aquarell</p:technique>
-        </p:materials_techniques>
-        <p:resourceLink>
-            http://resources.digicult-museen.net/dam/provided_image/m57d82523d5894
-        </p:resourceLink>
-    </p:painting>
-    <p:painting>
-        <p:title>Fregatte VARIABLE</p:title>
-        <p:description>
-            Schiff von Backbord achtern gesehen, vor dem Wind auf die Reede von
-            St. Thomas segelnd. Das Großsegel ist aufgegeit, die Bramsegel sind gefiert und werden
-            auch aufgegeit. Der Anker ist klar zum Fallen.
-            Im Vortopp weht der Dannebrog mit Zirkel „FR VI“ mit Krone.
-            8 Personen auf dem Schiff, davon 2 in den Toppen.
-            Im Hintergrund links Reede und Hafen von St. Thomas mit gebirgiger Landschaft, rechts Kap.
-        </p:description>
-        <p:actor>
-            <p:name>Böttger, Jacob Ahrend Hinrich</p:name>
-            <p:birthYear>1781</p:birthYear>
-            <p:deathYear>1860</p:deathYear>
-        </p:actor>
-        <p:date>
-            <p:earliestDate>1808</p:earliestDate>
-            <p:latestDate>1819</p:latestDate>
-        </p:date>
-        <p:materials_techniques>
-            <p:material>Karton</p:material>
-            <p:technique>Federzeichnung</p:technique>
-            <p:technique>Aquarell</p:technique>
-        </p:materials_techniques>
-        <p:resourceLink>
-            http://resources.digicult-museen.net/dam/provided_image/m57d8252453730
-        </p:resourceLink>
-    </p:painting>
-    <p:painting>
-        <p:title>Brigg VERÄNDERUNG</p:title>
-        <p:description>
-            Schiff von Backbordseite gezeigt, unter Klüver-, Fock- und
-            gerefftem Briggsegel vor dem Wind laufend. An der Gaffel der Dannebrog mit Zirkel „C
-            7“, im Großtopp langer Wimpel mit den dänischen Farben. 8 Leute an Deck.
-            Links weit vor dem Horizont ein weiteres Fahrzeug, rechts im Hintergrund gebirgige
-            Landschaft.
-        </p:description>
-        <p:actor>
-            <p:name>unbekannt</p:name>
-            <p:birthYear/>
-            <p:deathYear/>
-        </p:actor>
-        <p:date>
-            <p:earliestDate>1789</p:earliestDate>
-            <p:latestDate>1802</p:latestDate>
-        </p:date>
-        <p:materials_techniques>
-            <p:material>Papier</p:material>
-            <p:technique>Federzeichnung</p:technique>
-            <p:technique>Aquarell</p:technique>
-        </p:materials_techniques>
-        <p:resourceLink>
-            http://resources.digicult-museen.net/dam/provided_image/m57d82524c393b
-        </p:resourceLink>
-    </p:painting>
-    <p:painting>
-        <p:title>Schnaubrigg VERÄNDERUNG</p:title>
-        <p:description>
-            Schiff von Backbordseite gezeigt, vor Anker liegend, alle Segel
-            festgemacht. An der Gaffel die dänische Flagge mit Zirkel „C 7“, im Großtopp
-            langer schmaler Wimpel. An Deck 11 Leute und ein Hund. Im Hintergrund die Vedute eines
-            Hafens, wahrscheinlich Triest, dahinter bergige Landschaft. Auf einem Wachtturm weht die
-            österreichische Fahne.
-        </p:description>
-        <p:actor>
-            <p:name>unbekannt</p:name>
-            <p:birthYear/>
-            <p:deathYear/>
-        </p:actor>
-        <p:date>
-            <p:earliestDate>1794</p:earliestDate>
-            <p:latestDate>1794</p:latestDate>
-        </p:date>
-        <p:materials_techniques>
-            <p:material>Büttenpapier</p:material>
-            <p:technique>Federzeichnung</p:technique>
-            <p:technique>Aquarell</p:technique>
-        </p:materials_techniques>
-        <p:resourceLink>
-            http://resources.digicult-museen.net/dam/provided_image/m57d82525410b5
-        </p:resourceLink>
-    </p:painting>
-    <p:painting>
-        <p:title>Vollschiff (Walfänger) EMMA</p:title>
-        <p:description>
-            Das Schiff wird von Backbordseite gezeigt. Es läuft mit allen
-            Segeln vor dem Wind, das Großsegel ist aufgegeit.
-            Flaggen: Hamburger Flagge im Kreuztopp, langer roter Wimpel mit Hamburger Stadtwappen im Großtopp.
-            6 Personen an Deck.
-        </p:description>
-        <p:actor>
-            <p:name>unbekannt</p:name>
-            <p:birthYear/>
-            <p:deathYear/>
-        </p:actor>
-        <p:date>
-            <p:earliestDate>1817</p:earliestDate>
-            <p:latestDate>1823</p:latestDate>
-        </p:date>
-        <p:materials_techniques>
-            <p:material>Büttenpapier</p:material>
-            <p:technique>Federzeichnung</p:technique>
-        </p:materials_techniques>
-        <p:resourceLink>
-            http://resources.digicult-museen.net/dam/provided_image/m57d825259ffb7
-        </p:resourceLink>
-    </p:painting>
-    <p:painting>
-        <p:title>Vollschiff GEORG FRIEDRICH</p:title>
-        <p:description>
-            Schiff von Steuerbordseite gezeigt, mit allen Segeln einschließlich
-            der Leesegel auf Steuerbordbug vor dem Wind segelnd.
-            An der Gaffel der Dannebrog mit Zirkel „FR VI“ und Krone, im Kreuztopp die
-            Nummern-Flagge „1.“, im Großtopp Namenswimpel mit den dänischen
-            Farben, im Vortopp die Dreyersche Reedereiflagge.
-            11 Leute sind an Deck.
-            Links im Hintergrund ein Blankeneser Pfahlewer und ein Stück Ufer, rechts ein Ewer und
-            eine Brigg vor der Hafeneinfahrt und Stadtsilhouette von Glückstadt.
-        </p:description>
-        <p:actor>
-            <p:name>unbekannt</p:name>
-            <p:birthYear/>
-            <p:deathYear/>
-        </p:actor>
-        <p:date>
-            <p:earliestDate>1826</p:earliestDate>
-            <p:latestDate>1832</p:latestDate>
-        </p:date>
-        <p:materials_techniques>
-            <p:material>Karton</p:material>
-            <p:technique>Federzeichnung</p:technique>
-            <p:technique>Aquarell</p:technique>
-        </p:materials_techniques>
-        <p:resourceLink>
-            http://resources.digicult-museen.net/dam/provided_image/m57d825261ed43
-        </p:resourceLink>
-    </p:painting>
-    <p:painting>
-        <p:title>Galeasse AMPHITRITE</p:title>
-        <p:description>
-            Schiff von Backbordseite dargestellt, unter allen Segeln einschließlich
-            der Leesegel vor dem Winde fahrend.
-            In den Toppen der Dannebrog mit Zirkel „C 7“ und ein langer schmaler Wimpel.
-            8 Leute und 1 Hund an Bord zu sehen.
-            Im Hintergrund links ankernde Schiffe und Türme der Stadt Riga.
-            Die Darstellung ist leicht in die Perspektive gerückt, so daß der Spiegel und das
-            Vorschiffsdeck sichtbar sind.
-            Die Beschriftung rechts unten „Gebaut von Hans J. Böttger 1805.“ ist auf
-            einem gesonderten Papier geschrieben und aufgeklebt.
-        </p:description>
-        <p:actor>
-            <p:name>unbekannt</p:name>
-            <p:birthYear/>
-            <p:deathYear/>
-        </p:actor>
-        <p:date>
-            <p:earliestDate>1805</p:earliestDate>
-            <p:latestDate>1809</p:latestDate>
-        </p:date>
-        <p:materials_techniques>
-            <p:material>Büttenpapier</p:material>
-            <p:technique>Federzeichnung</p:technique>
-            <p:technique>Aquarell</p:technique>
-        </p:materials_techniques>
-        <p:resourceLink>
-            http://resources.digicult-museen.net/dam/provided_image/m57d825268b3b7
-        </p:resourceLink>
-    </p:painting>
-    <p:painting>
-        <p:title>Schnaubrigg ANNA MARIA</p:title>
-        <p:description>
-            Schiff von Backbord achtern gezeigt, unter allen Segeln vor dem Winde
-            laufend. Die Bramsegel sind gefiert und aufgegeit und werden gerade festgemacht. Der Anker
-            ist klar zum Fallen. Das Schiff segelt in die Bucht von Neapel ein. Am Heck weht die dänische
-            Flagge mit Zirkel „C 7“ und Krone, im Großtopp der dänische Wimpel.
-            10 Personen auf dem Schiff, davon 4 auf den Bramrahen. Links im Hintergrund der Hafen von
-            Neapel mit Vesuv, nach rechts zieht sich die Bucht von Neapel.
-        </p:description>
-        <p:actor>
-            <p:name>unbekannt</p:name>
-            <p:birthYear/>
-            <p:deathYear/>
-        </p:actor>
-        <p:date>
-            <p:earliestDate>1795</p:earliestDate>
-            <p:latestDate>1795</p:latestDate>
-        </p:date>
-        <p:materials_techniques>
-            <p:material>Papier</p:material>
-            <p:technique>Federzeichnung</p:technique>
-            <p:technique>Aquarell</p:technique>
-        </p:materials_techniques>
-        <p:resourceLink>
-            http://resources.digicult-museen.net/dam/provided_image/m57d82527054a4
-        </p:resourceLink>
-    </p:painting>
-    <p:painting>
-        <p:title>Schnaubrigg ANNA MARIA</p:title>
-        <p:description>
-            Schiff von Steuerbordseite gezeigt, vor Neapel in der Bucht von
-            Napoli vor Anker liegend. Am Heck und am Vorsteven weht der Dannebrog mit Zirkel „C 7“
-            und Krone, im Großtopp der dänische Wimpel. 5 Personen auf dem Schiff, davon eine
-            in den Vor- und Unterwanten. Im Hintergrund links der Hafen von Neapel mit Vesuv, nach
-            rechts zieht sich die Bucht von Neapel.
-        </p:description>
-        <p:actor>
-            <p:name>unbekannt</p:name>
-            <p:birthYear/>
-            <p:deathYear/>
-        </p:actor>
-        <p:date>
-            <p:earliestDate>1796</p:earliestDate>
-            <p:latestDate>1796</p:latestDate>
-        </p:date>
-        <p:materials_techniques>
-            <p:material>Papier</p:material>
-            <p:technique>Federzeichnung</p:technique>
-            <p:technique>Aquarell</p:technique>
-        </p:materials_techniques>
-        <p:resourceLink>
-            http://resources.digicult-museen.net/dam/provided_image/m57d82527a2f5e
-        </p:resourceLink>
-    </p:painting>
-    <p:painting>
-        <p:title>Dreimastgaliot</p:title>
-        <p:description>
-            Das Schiff wird von Backbord achtern gezeigt; es segelt vor dem Wind.
-            Fockbram- und Blindsegel festgemacht, Großsegel aufgegeit und Großbramsegel
-            gefiert. Flaggen: dänische Handelsflagge für den Mittelmeeraum am Heck (Zirkel:
-            Christian VII.), langer, schmaler Wimpel im Großtopp. 12 Personen an Deck, davon 2
-            Personen in den Großunterwanten aufenternd. Links im Hintergrund dasselbe Schiff und
-            vor dem Horizont weitere Fahrzeuge; rechts im Hintergrund Küste mit Hafen und Gebäude.
-        </p:description>
-        <p:actor>
-            <p:name>Jessen, Jes</p:name>
-            <p:birthYear>1743</p:birthYear>
-            <p:deathYear>1807</p:deathYear>
-        </p:actor>
-        <p:date>
-            <p:earliestDate>1766</p:earliestDate>
-            <p:latestDate>1766</p:latestDate>
-        </p:date>
-        <p:materials_techniques>
-            <p:material>Leinwand</p:material>
-            <p:material>Ölfarbe</p:material>
-            <p:technique>Malerei</p:technique>
-        </p:materials_techniques>
-        <p:resourceLink>
-            http://resources.digicult-museen.net/dam/provided_image/m57d82528358b7
-        </p:resourceLink>
-    </p:painting>
-    <p:painting>
-        <p:title>Schnaubrigg ARGUS</p:title>
-        <p:description>
-            Schiff von Steuerbordseite gezeigt, vor dem Winde segelnd. Das Großsegel
-            ist aufgegeit, das Großstagsegel aufgetucht.
-            Am Heck weht der Dannebrog mit Zirkel „F 6“ und Krone, im Großtopp ein
-            lange schmaler Wimpel.
-            An Deck sind 6 Leute.
-            Rechts im Hintergrund eine Insel mit Turm, eventuell ein Leuchtturm; außerdem dasselbe
-            Schiff von achtern gesehen, am Winde segelnd.
-
-            Es besteht eine Ähnlichkeit bezüglich Stil, Bildaufbau und der nahezu
-            orthogonalen Darstellung des Schiffes in beiden Ansichten mit den Schiffsporträts der
-            DORIS (Inventarnummer AB05301) und der AMPHITRITE (Inventarnummer AB05279). Daher möglicherweise
-            Michel Jensen zuzuschreiben.
-        </p:description>
-        <p:actor>
-            <p:name>Jensen, Michel</p:name>
-            <p:birthYear/>
-            <p:deathYear/>
-        </p:actor>
-        <p:date>
-            <p:earliestDate>1810</p:earliestDate>
-            <p:latestDate>1810</p:latestDate>
-        </p:date>
-        <p:materials_techniques>
-            <p:material>Büttenpapier</p:material>
-            <p:technique>Federzeichnung</p:technique>
-            <p:technique>Aquarell</p:technique>
-        </p:materials_techniques>
-        <p:resourceLink>
-            http://resources.digicult-museen.net/dam/provided_image/m57d82528a331f
-        </p:resourceLink>
-    </p:painting>
-    <p:painting>
-        <p:title>Schnaubrigg LOUISA AUGUSTA</p:title>
-        <p:description>
-            Schiff von Backbordseite dargestellt, auf Reede vor Anker liegend. Es
-            wehen am Heck der Dannebrog mit Zirkel „C 7“ und Krone sowie im Großtopp
-            ein langer schmaler gespaltener Wimpel. An Bord 7 Personen. Links weiter hinten dieselbe
-            Brigg von achtern gesehen, mit gesetzten Segeln bei halbem Wind laufend. Im Hintergrund
-            links eine gebirgige Küste, rechts eine Stadtsilhouette. Auf dem Befestigungsturm weht
-            die (blau?)-weiß-rote Flagge. Es ist möglich, daß Livorno gemeint ist, da die
-            LOUISA AUGUSTA zwischen 1792 und 1801 spanische und italienische Mittelmeerhäfen, u.a.
-            Livorno, angelaufen hat.
-        </p:description>
-        <p:actor>
-            <p:name>unbekannt</p:name>
-            <p:birthYear/>
-            <p:deathYear/>
-        </p:actor>
-        <p:date>
-            <p:earliestDate>1791</p:earliestDate>
-            <p:latestDate>1801</p:latestDate>
-        </p:date>
-        <p:materials_techniques>
-            <p:material>Büttenpapier</p:material>
-            <p:technique>Kupferstich</p:technique>
-        </p:materials_techniques>
-        <p:resourceLink>
-            http://resources.digicult-museen.net/dam/provided_image/m57d8252915847
-        </p:resourceLink>
-    </p:painting>
-    <p:painting>
-        <p:title>Galiot DIE GUTE HOFFNUNG</p:title>
-        <p:description>
-            Das Schiff wird von der Backbordseite gezeigt. Es läuft mit
-            allen Segeln auf Backbordbug mit Backstagsbrise, ein Beiboot wird mitgezogen.
-            Flaggen:
-            Dannebrog im Besantopp, Wimpel mit dänischen Farben im inneren oberen Eck und mit den
-            Buchstaben „HP“ im Großtopp. Die Flaggen wehen regelwidrig nach achtern
-            aus.
-            4 Personen an Deck.
-            Die Durchführung der Zeichnung und der Malerei ist unsicher und ungeübt,
-            gleichwohl sind die dargestellten technischen Details des Schiffes alle richtig.
-        </p:description>
-        <p:actor>
-            <p:name>unbekannt</p:name>
-            <p:birthYear/>
-            <p:deathYear/>
-        </p:actor>
-        <p:date>
-            <p:earliestDate>1800</p:earliestDate>
-            <p:latestDate>1800</p:latestDate>
-        </p:date>
-        <p:materials_techniques>
-            <p:material>Papier</p:material>
-            <p:material>Grafitstift</p:material>
-            <p:technique>Federzeichnung</p:technique>
-            <p:technique>Aquarell</p:technique>
-        </p:materials_techniques>
-        <p:resourceLink>
-            http://resources.digicult-museen.net/dam/provided_image/m57d8252999eba
-        </p:resourceLink>
-    </p:painting>
-    <p:painting>
-        <p:title>Schaubrigg VRIND SCHIP</p:title>
-        <p:description>
-            Schiff von Backbordseite gezeigt, unter Schwerwetterbesegelung auf
-            Steuerbordbug vor dem Wind laufend. Gesetzt ist ein kleines Klüver, die gereffte Fock,
-            das gereffte Großstag-, das gereffte Großmars- und das gereffte Briggsegel. Die
-            Bramstengen sind gefiert, die Bramrahen an Deck genommen. Das Schiff läuft in einer
-            groben See.
-            Flagge: Dannebrog mit Zirkel „C 7“ und Krone.
-            An Deck 8 Personen, die sich mit den Leinen beschäftigen.
-            Rechts etwas weiter hinten dasselbe Schiff in orthogonaler Darstellung als Heckansicht.
-            Beflaggung wie oben.
-        </p:description>
-        <p:actor>
-            <p:name>unbekannt</p:name>
-            <p:birthYear/>
-            <p:deathYear/>
-        </p:actor>
-        <p:date>
-            <p:earliestDate>1795</p:earliestDate>
-            <p:latestDate>1803</p:latestDate>
-        </p:date>
-        <p:materials_techniques>
-            <p:material>Büttenpapier</p:material>
-            <p:technique>Federzeichnung</p:technique>
-            <p:technique>Aquarell</p:technique>
-        </p:materials_techniques>
-        <p:resourceLink>
-            http://resources.digicult-museen.net/dam/provided_image/m57d8252a36cc8
-        </p:resourceLink>
-    </p:painting>
-    <p:painting>
-        <p:title>Vollschiff "Florida von New York"</p:title>
-        <p:description>
-            Das Schiff wird mit allen gesetzten Segeln Steuerbordbug fahrend von
-            Backbordseite gezeigt.
-            Flaggen: US-Flagge an der Monkeygaffel (lt. Beschluß des Repräsentantenhauses vom
-            13.04.1818 Anordnung der 20 Sterne in Form eines 5armigen Sterns; wird kurz danach wieder
-            zugunsten der Reihenanordnung aufgehoben), 3teiliges U.S. im Kreuztopp (Marryat-Code:
-            Telegraphenflagge + evtl. falsch ausgeführter Flagge Nr. 7 und Nr. 3 = „gewöhnt“),
-            Namenswimpel im Großtopp, im Vortopp die Flagge von Antwerpen.
-            9 Personen an Deck.
-            Links im Hintergrund Vlissingen; rechts im Hintergrund Lotsenschoner Nr. 9, Antwerpen und am
-            Horizont weitere Fahrzeuge.
-        </p:description>
-        <p:actor>
-            <p:name>Weyts, Petrus Cornelius</p:name>
-            <p:birthYear>1799</p:birthYear>
-            <p:deathYear>1855</p:deathYear>
-        </p:actor>
-        <p:date>
-            <p:earliestDate>1843</p:earliestDate>
-            <p:latestDate>1845</p:latestDate>
-        </p:date>
-        <p:materials_techniques>
-            <p:material>Glas</p:material>
-            <p:technique>Maltechnik</p:technique>
-        </p:materials_techniques>
-        <p:resourceLink>
-            http://resources.digicult-museen.net/dam/provided_image/m57d8252aaa1bb
-        </p:resourceLink>
-    </p:painting>
-    <p:painting>
-        <p:title>Galeasse CONCORDIA</p:title>
-        <p:description>
-            Beide Schiffe von Steuerbordseite – leicht von vorn gesehen
-            – dargestellt. Die havarierte „Gallias“ CONCORDIA, bei der nur noch der
-            Besanmast steht, befindet sich im Schlepp eines amerikanischen Kriegsschiffes, das unter
-            allen Segeln auf Steuerbordbug am Wind segelt; die Royals sind gefiert, werden
-            wahrscheinlich gerade geborgen. Flaggen am Kriegsschiff: US-Flagge an der Kreuzgaffel,
-            blau-weißer schmaler, langer Wimpel im Großtopp. Dannebrog ohne Ordinale im Topp
-            der „Gallias“. 9 Personen an Deck des Kriegsschiffes (naive, vereinfachende,
-            aber lebendige Darstellung). Zwischen den Texten sich kreuzende Waffen, Kanonenrohre und
-            Fahnen.
-        </p:description>
-        <p:actor>
-            <p:name>unbekannt</p:name>
-            <p:birthYear/>
-            <p:deathYear/>
-        </p:actor>
-        <p:date>
-            <p:earliestDate>1800</p:earliestDate>
-            <p:latestDate>1800</p:latestDate>
-        </p:date>
-        <p:materials_techniques>
-            <p:material>Karton</p:material>
-            <p:technique>Federzeichnung</p:technique>
-            <p:technique>Aquarell</p:technique>
-        </p:materials_techniques>
-        <p:resourceLink>
-            http://resources.digicult-museen.net/dam/provided_image/m57d8252b4ac96
-        </p:resourceLink>
-    </p:painting>
-    <p:painting>
-        <p:title>Brigg VERBESSERUNG</p:title>
-        <p:description>
-            Schiff von Steuerbordseite gezeigt, am Wind segelnd. Die Bramsegel
-            sind festgemacht.
-            An der Gaffel der Dannebrog mit Zirkel „FR“ und Krone.
-            An Deck sind 4 Leute.
-            Links im Hintergrund ein weiteres Segelfahrzeug, rechts im Hintergrund eine steile
-            Felseninsel, darüber Wolken.
-        </p:description>
-        <p:actor>
-            <p:name>Hansen,</p:name>
-            <p:birthYear/>
-            <p:deathYear/>
-        </p:actor>
-        <p:date>
-            <p:earliestDate>1821</p:earliestDate>
-            <p:latestDate>1825</p:latestDate>
-        </p:date>
-        <p:materials_techniques>
-            <p:material>Papier</p:material>
-            <p:technique>Aquarell</p:technique>
-            <p:technique>Federzeichnung</p:technique>
-        </p:materials_techniques>
-        <p:resourceLink>
-            http://resources.digicult-museen.net/dam/provided_image/m57d8252be0cfc
-        </p:resourceLink>
-    </p:painting>
-    <p:painting>
-        <p:title>Jacht ANNA CHATHARINA</p:title>
-        <p:description>
-            Das Schiff wird von der Steuerbordseite unter allen Segeln am Wind
-            fahrend gezeigt. Danebrog am Heck. 4 Personen an Deck. Links dasselbe Schiff noch einmal von
-            backbord achtern mit allen Segeln einschließlich der Breitfock bei halbem Wind segelnd
-            dargestellt. 4 Personen an Deck. Hintergrund entweder Helnäs/Fünen oder
-            Keldsnor/Langeland oder NW-Ecke von Seeland.
-        </p:description>
-        <p:actor>
-            <p:name>Johnsen-Sebøy, Ole</p:name>
-            <p:birthYear>1792</p:birthYear>
-            <p:deathYear>1843</p:deathYear>
-        </p:actor>
-        <p:date>
-            <p:earliestDate>1824</p:earliestDate>
-            <p:latestDate>1824</p:latestDate>
-        </p:date>
-        <p:materials_techniques>
-            <p:material>Papier</p:material>
-            <p:technique>Aquarell</p:technique>
-            <p:technique>Federzeichnung</p:technique>
-        </p:materials_techniques>
-        <p:resourceLink>
-            http://resources.digicult-museen.net/dam/provided_image/m57d8252c4f6a4
-        </p:resourceLink>
-    </p:painting>
-    <p:painting>
-        <p:title>Brigg TRITON</p:title>
-        <p:description>
-            Schiff von Backbordseite gezeigt, mit allen Segeln, auch den
-            Leesegeln, auf Backbordbug vor dem Winde fahrend. Groß- und Briggsegel sind teilweise
-            aufgegeit. Vorstengestagsegel und Fockgaffelsegel sind festgemacht.
-            An der Gaffel Dannebrog mit Zirkel [schlecht lesbar, wohl „FR“].
-            10 Leute an Deck.
-            Links am Horizont ein Blankeneser Pfahlewer.
-        </p:description>
-        <p:actor>
-            <p:name>Böttger, Jacob Ahrend Hinrich</p:name>
-            <p:birthYear>1781</p:birthYear>
-            <p:deathYear>1860</p:deathYear>
-        </p:actor>
-        <p:date>
-            <p:earliestDate>1831</p:earliestDate>
-            <p:latestDate>1831</p:latestDate>
-        </p:date>
-        <p:materials_techniques>
-            <p:material>Papier</p:material>
-            <p:technique>Federzeichnung</p:technique>
-            <p:technique>Aquarell</p:technique>
-        </p:materials_techniques>
-        <p:resourceLink>
-            http://resources.digicult-museen.net/dam/provided_image/m57d8252cb0859
-        </p:resourceLink>
-    </p:painting>
-    <p:painting>
-        <p:title>Brigg DIE FRAU ANKA &amp; CHATHARINA</p:title>
-        <p:description>
-            Schiff von Backbordseite gezeigt, mit allen Segeln am Winde auf
-            Steuerbordbug fahrend. An der Gaffel der Dannebrog mit Zirkel „FR“, ebenso im
-            Vortopp. Im Großtopp Reedereiwimpel „J. H. Bohnenberg“ mit den dänischen
-            Farben am Liek. 7 Personen an Deck. Sehr naive Darstellung.
-        </p:description>
-        <p:actor>
-            <p:name>Momsen, M. H.</p:name>
-            <p:birthYear>1814</p:birthYear>
-            <p:deathYear>1907</p:deathYear>
-        </p:actor>
-        <p:date>
-            <p:earliestDate>1857</p:earliestDate>
-            <p:latestDate>1857</p:latestDate>
-        </p:date>
-        <p:materials_techniques>
-            <p:material>Papier</p:material>
-            <p:technique>Federzeichnung</p:technique>
-            <p:technique>Aquarell</p:technique>
-        </p:materials_techniques>
-        <p:resourceLink>
-            http://resources.digicult-museen.net/dam/provided_image/m57d8252d291da
-        </p:resourceLink>
-    </p:painting>
-    <p:painting>
-        <p:title>Brigg "Catharina von Altona"</p:title>
-        <p:description>
-            Schiff von Steuerbordseite gezeigt, segelt vor dem Winde auf
-            Backbordbug. Alle Segel gesetzt, Großsegel wird aufgegeit.
-            Flaggenführung: am Heck Dannebrog mit Zirkel „C 7“ und Krone, in den
-            Toppen 2 lange Wimpel.
-            8 Personen an Deck, davon ein Junge, sowie Bordhund.
-            Im Hintergrund links Landschaft und ein Leuchtturm sowie die CATHARINA in Heckansicht. Im
-            Hintergrund rechts weitere Segelschiffe.
-        </p:description>
-        <p:actor>
-            <p:name>unbekannt</p:name>
-            <p:birthYear/>
-            <p:deathYear/>
-        </p:actor>
-        <p:date>
-            <p:earliestDate>1806</p:earliestDate>
-            <p:latestDate>1809</p:latestDate>
-        </p:date>
-        <p:materials_techniques>
-            <p:material>Glas</p:material>
-            <p:material>Karton</p:material>
-            <p:material>Ölfarbe</p:material>
-            <p:technique>Maltechnik</p:technique>
-            <p:technique>Aquarell</p:technique>
-        </p:materials_techniques>
-        <p:resourceLink>
-            http://resources.digicult-museen.net/dam/provided_image/m57d8252d9e4fc
-        </p:resourceLink>
-    </p:painting>
-    <p:painting>
-        <p:title>Fregatte DORIS</p:title>
-        <p:description>
-            Schiff von Backbordseite gezeigt, unter allen Segeln einschließlich
-            der Leesegel auf Steuerbordbug fahrend. An der Gaffel der Dannebrog mit Zirkel „C 7“
-            und Krone. Im Großtopp weht ein langer dänischer Wimpel.
-            An Bord sind 11 Personen und 1 Hund.
-            Links am Horizont ein zylindrischer Turm mit einem Kranbalken, an dem 3 Bälle
-            untereinander hängen. Daneben eine felsige Insel. Rechts die Heckansicht desselben
-            Schiffes.
-            Die Darstellung des Rumpfes und der Masten ist orthogonal, auch des Schiffes in Heckansicht.
-        </p:description>
-        <p:actor>
-            <p:name>Jensen, Michel</p:name>
-            <p:birthYear/>
-            <p:deathYear/>
-        </p:actor>
-        <p:date>
-            <p:earliestDate>1800</p:earliestDate>
-            <p:latestDate>1806</p:latestDate>
-        </p:date>
-        <p:materials_techniques>
-            <p:material>Papier</p:material>
-            <p:technique>Federzeichnung</p:technique>
-            <p:technique>Aquarell</p:technique>
-        </p:materials_techniques>
-        <p:resourceLink>
-            http://resources.digicult-museen.net/dam/provided_image/m57d8252e2606a
-        </p:resourceLink>
-    </p:painting>
-    <p:painting>
-        <p:title>Schnaubrigg LOUISA AUGUSTA</p:title>
-        <p:description>
-            Schiff von Backbordseite dargestellt, auf Reede vor Anker liegend. Es
-            wehen am Heck der Dannebrog mit Zirkel „C 7“ und Krone sowie im Großtopp
-            ein langer schmaler gespaltener Wimpel. An Bord 7 Personen. Links weiter hinten dieselbe
-            Brigg von achtern gesehen, mit gesetzten Segeln bei halbem Wind laufend. Im Hintergrund
-            links eine gebirgige Küste, rechts eine Stadtsilhouette. Auf dem Befestigungsturm weht
-            die (blau?)-weiß-rote Flagge. Es ist möglich, daß Livorno gemeint ist, da die
-            LOUISA AUGUSTA zwischen 1792 und 1801 spanische und italienische Mittelmeerhäfen, u.a.
-            Livorno, angelaufen hat.
-        </p:description>
-        <p:actor>
-            <p:name>unbekannt</p:name>
-            <p:birthYear/>
-            <p:deathYear/>
-        </p:actor>
-        <p:date>
-            <p:earliestDate>1791</p:earliestDate>
-            <p:latestDate>1801</p:latestDate>
-        </p:date>
-        <p:materials_techniques>
-            <p:material>Büttenpapier</p:material>
-            <p:material>Karton</p:material>
-            <p:technique>Kupferstich</p:technique>
-        </p:materials_techniques>
-        <p:resourceLink>
-            http://resources.digicult-museen.net/dam/provided_image/m57d8252e975c0
-        </p:resourceLink>
-    </p:painting>
-    <p:painting>
-        <p:title>Schnaubrigg LOUISA AUGUSTA</p:title>
-        <p:description>
-            Schiff von Backbordseite dargestellt, auf Reede vor Anker liegend. Es
-            wehen am Heck der Dannebrog mit Zirkel „C 7“ und Krone sowie im Großtopp
-            ein langer schmaler gespaltener Wimpel. An Bord 7 Personen. Links weiter hinten dieselbe
-            Brigg von achtern gesehen, mit gesetzten Segeln bei halbem Wind laufend. Im Hintergrund
-            links eine gebirgige Küste, rechts eine Stadtsilhouette. Auf dem Befestigungsturm weht
-            die (blau?)-weiß-rote Flagge. Es ist möglich, daß Livorno gemeint ist, da die
-            LOUISA AUGUSTA zwischen 1792 und 1801 spanische und italienische Mittelmeerhäfen, u.a.
-            Livorno, angelaufen hat.
-        </p:description>
-        <p:actor>
-            <p:name>unbekannt</p:name>
-            <p:birthYear/>
-            <p:deathYear/>
-        </p:actor>
-        <p:date>
-            <p:earliestDate>1791</p:earliestDate>
-            <p:latestDate>1801</p:latestDate>
-        </p:date>
-        <p:materials_techniques>
-            <p:material>Büttenpapier</p:material>
-            <p:technique>Kupferstich</p:technique>
-        </p:materials_techniques>
-        <p:resourceLink>
-            http://resources.digicult-museen.net/dam/provided_image/m57d8252f0506a
-        </p:resourceLink>
-    </p:painting>
-    <p:painting>
-        <p:title>Brigg DIE ROSE</p:title>
-        <p:description>
-            Schiff von Steuerbord achtern gesehen, mit allen Segeln und
-            Backstagsbrise laufend. Die Royals sind im halbgefierten Zustand.
-            Im Großmast ein farbiger Wimpel mit den Dannebrogfarben am Liek.
-            6 Personen an Deck.
-            Die Darstellung befand sich wahrscheinlich als Seitenabbildung auf einem größeren
-            Schiffsporträt. Die Bildunterschrift ist offensichtlich eine spätere Hinzufügung.
-        </p:description>
-        <p:actor>
-            <p:name>unbekannt</p:name>
-            <p:birthYear/>
-            <p:deathYear/>
-        </p:actor>
-        <p:date>
-            <p:earliestDate>1799</p:earliestDate>
-            <p:latestDate>1799</p:latestDate>
-        </p:date>
-        <p:materials_techniques>
-            <p:material>Papier</p:material>
-            <p:technique>Federzeichnung</p:technique>
-            <p:technique>Aquarell</p:technique>
-        </p:materials_techniques>
-        <p:resourceLink>
-            http://resources.digicult-museen.net/dam/provided_image/m57d8252f6322b
-        </p:resourceLink>
-    </p:painting>
-    <p:painting>
-        <p:title>Pink SUPERBE</p:title>
-        <p:description>
-            Schiff von Steuerbordseite gezeigt, alle Segel gesetzt außer Großsegel,
-            das aufgegeit ist, mit halbem Wind auf Backbordbug segelnd.
-            An der Gaffel Dannebrog mit Zirkel „C 7“.
-            8 Leute an Deck.
-            Die See ist leicht bewegt. Rechts im Hintergrund schemenhaft eine Gebirgsküste.
-            Kommentar: Die Darstellung ist trotz der schematisierten Seitenansicht der Schiffsporträts,
-            die der einer technischen Zeichnung gleicht, äußerst lebendig und weicht
-            insbesondere in der Perspektive, in der Wiedergabe von Licht und Schatten, in der
-            Farbmodulierung und der wie in der Realität vorzufindenden Ungleichmäßigkeiten
-            im Rigg ab. Hervorzuheben ist auch die lebensnahe Darstellung der menschlichen Figuren, die
-            alle irgendeiner nachvollziehbaren Beschäftigung nachgehen.
-        </p:description>
-        <p:actor>
-            <p:name>Roux, Ange Joseph Antoine</p:name>
-            <p:birthYear>1765</p:birthYear>
-            <p:deathYear>1835</p:deathYear>
-        </p:actor>
-        <p:date>
-            <p:earliestDate>1805</p:earliestDate>
-            <p:latestDate>1805</p:latestDate>
-        </p:date>
-        <p:materials_techniques>
-            <p:material>Büttenpapier</p:material>
-            <p:technique>Federzeichnung</p:technique>
-            <p:technique>Aquarell</p:technique>
-        </p:materials_techniques>
-        <p:resourceLink>
-            http://resources.digicult-museen.net/dam/provided_image/m57d8252fc4e14
-        </p:resourceLink>
-    </p:painting>
-    <p:painting>
-        <p:title>Fregatte</p:title>
-        <p:description>
-            Das Schiff wird von Steuerbordseite dargestellt, alle Segel gesetzt,
-            Rahen nur leicht angebraßt. Die Flagge weht regelwidrig nach achtern aus. Die
-            orthogonale Darstellung des Rumpfes (Überwasserteile), der Masten und Stengen und des
-            stehenden Gutes ist maßstabsgetreu, worauf eine im Unterrand des Bildes eingezeichnete
-            Fußskala hinweist, die als Länge zwischen den Loten 106 Fott angibt. Auf
-            Steuerbordseite sind 5 Geschütze und Geschützpforten erkennbar. Dänische
-            Flagge am Heck. Der Zirkel in der Flagge ist von Christian VII. Außerdem langer
-            schmaler Wimpel mit den Farben der dänischen Flagge
-            im Großtopp. 13 Personen an Deck.
-        </p:description>
-        <p:actor>
-            <p:name>unbekannt</p:name>
-            <p:birthYear/>
-            <p:deathYear/>
-        </p:actor>
-        <p:date>
-            <p:earliestDate>1766</p:earliestDate>
-            <p:latestDate>1808</p:latestDate>
-        </p:date>
-        <p:materials_techniques>
-            <p:material>Büttenpapier</p:material>
-        </p:materials_techniques>
-        <p:resourceLink>
-            http://resources.digicult-museen.net/dam/provided_image/m57d82530263d0
-        </p:resourceLink>
-    </p:painting>
-    <p:painting>
-        <p:title>Schaubrigg</p:title>
-        <p:description>
-            Das Schiff wird von Steuerbordseite gezeigt. Es fährt mit allen
-            Segeln einschließlich der Leesegel auf Steuerbordbug.
-            Lübecker Flagge an der Gaffel.
-            Die Darstellung befindet sich im konstruktiven Stadium der Vorzeichnung für die großen
-            Flächen (Rumpf und Segel). Diese sind auch schon farblich angelegt, ebenfalls die Flächen
-            für Rotfarbigkeit der Flögel in den beiden Toppen und der Lübecker Flagge an
-            der Gaffel. Die Horizontlinie ist mit einem dünnen Bleistiftstrich gekennzeichnet und
-            die bewegte Wasserlinie am Schiff schon durch Aussparungen in der Farbe gezeigt. Die dunklen
-            Linien im Rumpf sind schon mit Feder und Tusche nachgezogen, Konturen und Binnenzeichnungen
-            im Rigg noch Bleistift.
-        </p:description>
-        <p:actor>
-            <p:name>unbekannt</p:name>
-            <p:birthYear/>
-            <p:deathYear/>
-        </p:actor>
-        <p:date>
-            <p:earliestDate/>
-            <p:latestDate/>
-        </p:date>
-        <p:materials_techniques>
-            <p:material>Papier</p:material>
-            <p:material>Grafitstift</p:material>
-            <p:technique>Federzeichnung</p:technique>
-            <p:technique>Aquarell</p:technique>
-        </p:materials_techniques>
-        <p:resourceLink>
-            http://resources.digicult-museen.net/dam/provided_image/m57d82530b5005
-        </p:resourceLink>
-    </p:painting>
-    <p:painting>
-        <p:title>Pinkschiff (Dreimastgaliot)</p:title>
-        <p:description>
-            Das Schiff wird von Backbordseite gezeigt. Es fährt unter Mars-
-            und Besansegel, Fock aufgegeit, Vorstagsegel ist gefallen. Dänische Flagge des
-            Mittelmeerraums am Heck (Zirkel: Christian VII.), langer schmaler Wimpel im Großtopp.
-            10 Personen an Deck. Im Hintergrund links ein Kriegskutter von Steuerbord vorn gesehen am
-            Wind segelnd, rechts im Hintergrund Hafen mit gebirgiger Küste. Rechts oben Kartusche für
-            Beschriftung, Beschriftung total ausgewaschen.
-        </p:description>
-        <p:actor>
-            <p:name>unbekannt</p:name>
-            <p:birthYear/>
-            <p:deathYear/>
-        </p:actor>
-        <p:date>
-            <p:earliestDate>1786</p:earliestDate>
-            <p:latestDate>1800</p:latestDate>
-        </p:date>
-        <p:materials_techniques>
-            <p:material>Büttenpapier</p:material>
-            <p:technique>Aquarell</p:technique>
-            <p:technique>Federzeichnung</p:technique>
-        </p:materials_techniques>
-        <p:resourceLink>
-            http://resources.digicult-museen.net/dam/provided_image/m57d825311e022
-        </p:resourceLink>
-    </p:painting>
+<p:gallery xmlns:p="http://example.com/Portraits"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:lido="http://www.lido-schema.org"
+           xsi:schemaLocation="http://example.com/Portraits portraits_schema.xsd">
+   <p:painting>
+      <p:title>Schnaubrigg WILHELM</p:title>
+      <p:description>Schiff von Backbordseite gezeigt, mit allen Segeln vor dem Wind auf Steuerbordbug fahrend. Groß- und Briggsegel sind teilweise aufgegeit. Flaggen: Dannebrog mit Zirkel „FR VI“ und Krone, Kriegswimpel Dänemarks. Als Galionsfigur ein schreitender Mann mit einem Brief in der Hand. 10 Leute sind an Deck. Im Hintergrund links Helgoland und kleineres Segelfahrzeug, rechts ein Kutter mit dänischem Kriegswimpel und zwei Pfahlewer.</p:description>
+      <p:actor>
+         <p:name>Schwartze, G. M.</p:name>
+         <p:birthYear/>
+         <p:deathYear/>
+      </p:actor>
+      <p:date>
+         <p:earliestDate>1817</p:earliestDate>
+         <p:latestDate>1817</p:latestDate>
+      </p:date>
+      <p:materials_techniques>
+         <p:material>Büttenpapier</p:material>
+         <p:technique>Federzeichnung</p:technique>
+         <p:technique>Aquarell</p:technique>
+         <p:technique>Gouache</p:technique>
+      </p:materials_techniques>
+      <p:resourceLink>http://resources.digicult-museen.net/dam/provided_image/m57d82520ab637</p:resourceLink>
+   </p:painting>
+   <p:painting>
+      <p:title>Brigg CATHARINA</p:title>
+      <p:description>Das Schiff wird von Backbord vorn in Orkansituation gezeigt. Klüver, Groß- und Großmarssegel sind zerfetzt, die Royalsegel sind aufgetucht, das Focksegel ist aufgegeit, und das schon beschädigte Vormarssegel wird gerade aufgegeit. 7 Personen auf dem Schiff, davon 2 in den Wanten und 2 in den Rahen.</p:description>
+      <p:actor>
+         <p:name>Truelsen, Nis Nissen</p:name>
+         <p:birthYear>1792</p:birthYear>
+         <p:deathYear>1862</p:deathYear>
+      </p:actor>
+      <p:date>
+         <p:earliestDate>1854</p:earliestDate>
+         <p:latestDate>1859</p:latestDate>
+      </p:date>
+      <p:materials_techniques>
+         <p:material>Büttenpapier</p:material>
+         <p:technique>Federzeichnung</p:technique>
+         <p:technique>Aquarell</p:technique>
+         <p:technique>Gouache</p:technique>
+      </p:materials_techniques>
+      <p:resourceLink>http://resources.digicult-museen.net/dam/provided_image/m57d825218aee2</p:resourceLink>
+   </p:painting>
+   <p:painting>
+      <p:title>Brigg ANNA MARIA</p:title>
+      <p:description>Schiff von Backbordseite gezeigt, unter allen Segeln einschließlich der Leesegel mit Backstagsbrise vor dem Wind laufend. Geführt wird der Dannebrog mit Zirkel „FR VI“, ein weißer Wimpel mit gelbem Rand und den dänischen Farben mit Zirkel sowie die Dreyersche Reedereiflagge. Auf dem Schiff sind Leute. Im Hintergrund links ein Blankeneser Pfahlewer, rechts Helgoland.</p:description>
+      <p:actor>
+         <p:name>Böttger, Jacob Ahrend Hinrich</p:name>
+         <p:birthYear>1781</p:birthYear>
+         <p:deathYear>1860</p:deathYear>
+      </p:actor>
+      <p:date>
+         <p:earliestDate>1831</p:earliestDate>
+         <p:latestDate>1831</p:latestDate>
+      </p:date>
+      <p:materials_techniques>
+         <p:material>Papier</p:material>
+         <p:material>Grafitstift</p:material>
+         <p:technique>Federzeichnung</p:technique>
+         <p:technique>Aquarell</p:technique>
+      </p:materials_techniques>
+      <p:resourceLink>http://resources.digicult-museen.net/dam/provided_image/m57d825220573b</p:resourceLink>
+   </p:painting>
+   <p:painting>
+      <p:title>Brigg THEODOR</p:title>
+      <p:description>Schiff von Steuerbordseite dargestellt, in Vorbereitung des Ankermanövers. Bram- und Marsrahen werden gefiert und die Segel aufgegeit, die Gaffel des Briggsegels wird ebenfalls gefiert. Die Vorsegel sind gefallen. Flaggen: Dannebrog mit Zirkel „FR VI“ sowie im Vortopp eine blaue (wie auch die dänische Flagge hell und dunkel gestreift dargestellte) Flagge mit einem mittigen weißen Karree, möglicherweise die Reedereiflagge. Auf dem Schiff sind 12 Mann, teilweise mit den Segelmanövern beschäftigt. Links Leuchtturm und Mole von St. Thomas, rechts ein englischer Kriegskutter. Das Schiff wurde noch im 18. Jh. erbaut.</p:description>
+      <p:actor>
+         <p:name>unbekannt</p:name>
+         <p:birthYear/>
+         <p:deathYear/>
+      </p:actor>
+      <p:date>
+         <p:earliestDate>1808</p:earliestDate>
+         <p:latestDate>1808</p:latestDate>
+      </p:date>
+      <p:materials_techniques>
+         <p:material>Papier</p:material>
+         <p:technique>Federzeichnung</p:technique>
+         <p:technique>Aquarell</p:technique>
+      </p:materials_techniques>
+      <p:resourceLink>http://resources.digicult-museen.net/dam/provided_image/m57d82522669eb</p:resourceLink>
+   </p:painting>
+   <p:painting>
+      <p:title>Fregatte AEOLUS</p:title>
+      <p:description>Schiff von Backbordseite gezeigt, unter Vorstengestag-, gerefftem Fock-und gerefftem Besansegel am Winde fahrend. An der Gaffel der Dannebrog mit Zirkel „C 7“ und Krone. 9 Personen an Deck, die verschiedene Arbeiten ausführen, die wegen des starken Windes, ablesbar an der Besegelung und am dunklen Himmel, notwendig sind. Auf dem Vorschiff werden Leinen klariert. Bei den an Deck liegenden Booten werden die Laschings nachgezogen. Vom Heck hängt eine Jakobsleiter bis auf die Wasseroberfläche (eine damals übliche Präventivmaßnahme zur Rettung über Bord Gespülter). Links im Hintergrund gebirgige Insel, bezeichnet „CANDIA“ (= Kreta). Rechts im Hintergrund dasselbe Schiff noch einmal bei starkem Wind beiliegend mit gefierten Bramstengen.</p:description>
+      <p:actor>
+         <p:name>unbekannt</p:name>
+         <p:birthYear/>
+         <p:deathYear/>
+      </p:actor>
+      <p:date>
+         <p:earliestDate/>
+         <p:latestDate/>
+      </p:date>
+      <p:materials_techniques>
+         <p:material>Büttenpapier</p:material>
+         <p:technique>Federzeichnung</p:technique>
+         <p:technique>Aquarell</p:technique>
+      </p:materials_techniques>
+      <p:resourceLink>http://resources.digicult-museen.net/dam/provided_image/m57d82522ec2c3</p:resourceLink>
+   </p:painting>
+   <p:painting>
+      <p:title>Fregatte AMPHITRITE</p:title>
+      <p:description>Schiff von Steuerbordseite gezeigt, unter allen Segeln am Winde auf Backbordbug segelnd; nur die Royals sind festgemacht. An der Gaffel der Dannebrog mit Zirkel „C 7“ und Krone, im Kreuz- und im Vortopp rote Wimpel, im Großtopp der dänische Kriegswimpel. 12 Stückpforten mit Kanonen an der Steuerbordseite. 12 Personen an Deck. Im Hintergrund links und rechts am Horizont 4 weitere Schiffe, 3 Briggs und 1 Vollschiff.</p:description>
+      <p:actor>
+         <p:name>Böttger, Jacob Ahrend Hinrich</p:name>
+         <p:birthYear>1781</p:birthYear>
+         <p:deathYear>1860</p:deathYear>
+      </p:actor>
+      <p:date>
+         <p:earliestDate>1806</p:earliestDate>
+         <p:latestDate>1806</p:latestDate>
+      </p:date>
+      <p:materials_techniques>
+         <p:material>Büttenpapier</p:material>
+         <p:technique>Federzeichnung</p:technique>
+         <p:technique>Aquarell</p:technique>
+      </p:materials_techniques>
+      <p:resourceLink>http://resources.digicult-museen.net/dam/provided_image/m57d825235bab2</p:resourceLink>
+   </p:painting>
+   <p:painting>
+      <p:title>Schnaubrigg MELONA vor Riga</p:title>
+      <p:description>Das Schiff wird von Backbordseite an der Flußbrücke der Düna vor Anker liegend dargestellt. Alle Segel sind festgemacht. Flaggen: englische Handelsflagge an der Gaffel, Namenswimpel im Großtopp, Reedereiflagge im Vortopp, englische Lotsenflagge am Klüver. 15 Personen an Deck, davon eine Frau. Drei Personen beschäftigen sich mit dem Beladen. Im Hintergrund die Vedute der Stadt Riga. Im Gegensatz zu den üblichen Schiffsporträts wird hier neben einer vollständigen Hafenszene mit Stadtansicht und Treiben auf dem Kai und an der Brücke auch das Beladen des Schiffes gezeigt.</p:description>
+      <p:actor>
+         <p:name>Shlei (Slie), Carl Gustav</p:name>
+         <p:birthYear/>
+         <p:deathYear/>
+      </p:actor>
+      <p:date>
+         <p:earliestDate>1826</p:earliestDate>
+         <p:latestDate>1826</p:latestDate>
+      </p:date>
+      <p:materials_techniques>
+         <p:material>Papier</p:material>
+         <p:technique>Federzeichnung</p:technique>
+         <p:technique>Aquarell</p:technique>
+      </p:materials_techniques>
+      <p:resourceLink>http://resources.digicult-museen.net/dam/provided_image/m57d82523d5894</p:resourceLink>
+   </p:painting>
+   <p:painting>
+      <p:title>Fregatte VARIABLE</p:title>
+      <p:description>Schiff von Backbord achtern gesehen, vor dem Wind auf die Reede von St. Thomas segelnd. Das Großsegel ist aufgegeit, die Bramsegel sind gefiert und werden auch aufgegeit. Der Anker ist klar zum Fallen. Im Vortopp weht der Dannebrog mit Zirkel „FR VI“ mit Krone. 8 Personen auf dem Schiff, davon 2 in den Toppen. Im Hintergrund links Reede und Hafen von St. Thomas mit gebirgiger Landschaft, rechts Kap.</p:description>
+      <p:actor>
+         <p:name>Böttger, Jacob Ahrend Hinrich</p:name>
+         <p:birthYear>1781</p:birthYear>
+         <p:deathYear>1860</p:deathYear>
+      </p:actor>
+      <p:date>
+         <p:earliestDate>1808</p:earliestDate>
+         <p:latestDate>1819</p:latestDate>
+      </p:date>
+      <p:materials_techniques>
+         <p:material>Karton</p:material>
+         <p:technique>Federzeichnung</p:technique>
+         <p:technique>Aquarell</p:technique>
+      </p:materials_techniques>
+      <p:resourceLink>http://resources.digicult-museen.net/dam/provided_image/m57d8252453730</p:resourceLink>
+   </p:painting>
+   <p:painting>
+      <p:title>Brigg VERÄNDERUNG</p:title>
+      <p:description>Schiff von Backbordseite gezeigt, unter Klüver-, Fock- und gerefftem Briggsegel vor dem Wind laufend. An der Gaffel der Dannebrog mit Zirkel „C 7“, im Großtopp langer Wimpel mit den dänischen Farben. 8 Leute an Deck. Links weit vor dem Horizont ein weiteres Fahrzeug, rechts im Hintergrund gebirgige Landschaft.</p:description>
+      <p:actor>
+         <p:name>unbekannt</p:name>
+         <p:birthYear/>
+         <p:deathYear/>
+      </p:actor>
+      <p:date>
+         <p:earliestDate>1789</p:earliestDate>
+         <p:latestDate>1802</p:latestDate>
+      </p:date>
+      <p:materials_techniques>
+         <p:material>Papier</p:material>
+         <p:technique>Federzeichnung</p:technique>
+         <p:technique>Aquarell</p:technique>
+      </p:materials_techniques>
+      <p:resourceLink>http://resources.digicult-museen.net/dam/provided_image/m57d82524c393b</p:resourceLink>
+   </p:painting>
+   <p:painting>
+      <p:title>Schnaubrigg VERÄNDERUNG</p:title>
+      <p:description>Schiff von Backbordseite gezeigt, vor Anker liegend, alle Segel festgemacht. An der Gaffel die dänische Flagge mit Zirkel „C 7“, im Großtopp langer schmaler Wimpel. An Deck 11 Leute und ein Hund. Im Hintergrund die Vedute eines Hafens, wahrscheinlich Triest, dahinter bergige Landschaft. Auf einem Wachtturm weht die österreichische Fahne.</p:description>
+      <p:actor>
+         <p:name>unbekannt</p:name>
+         <p:birthYear/>
+         <p:deathYear/>
+      </p:actor>
+      <p:date>
+         <p:earliestDate>1794</p:earliestDate>
+         <p:latestDate>1794</p:latestDate>
+      </p:date>
+      <p:materials_techniques>
+         <p:material>Büttenpapier</p:material>
+         <p:technique>Federzeichnung</p:technique>
+         <p:technique>Aquarell</p:technique>
+      </p:materials_techniques>
+      <p:resourceLink>http://resources.digicult-museen.net/dam/provided_image/m57d82525410b5</p:resourceLink>
+   </p:painting>
+   <p:painting>
+      <p:title>Vollschiff (Walfänger)  EMMA</p:title>
+      <p:description>Das Schiff wird von Backbordseite gezeigt. Es läuft mit allen Segeln vor dem Wind, das Großsegel ist aufgegeit. Flaggen: Hamburger Flagge im Kreuztopp, langer roter Wimpel mit Hamburger Stadtwappen im Großtopp. 6 Personen an Deck.</p:description>
+      <p:actor>
+         <p:name>unbekannt</p:name>
+         <p:birthYear/>
+         <p:deathYear/>
+      </p:actor>
+      <p:date>
+         <p:earliestDate>1817</p:earliestDate>
+         <p:latestDate>1823</p:latestDate>
+      </p:date>
+      <p:materials_techniques>
+         <p:material>Büttenpapier</p:material>
+         <p:technique>Federzeichnung</p:technique>
+      </p:materials_techniques>
+      <p:resourceLink>http://resources.digicult-museen.net/dam/provided_image/m57d825259ffb7</p:resourceLink>
+   </p:painting>
+   <p:painting>
+      <p:title>Vollschiff GEORG FRIEDRICH</p:title>
+      <p:description>Schiff von Steuerbordseite gezeigt, mit allen Segeln einschließlich der Leesegel auf Steuerbordbug vor dem Wind segelnd. An der Gaffel der Dannebrog mit Zirkel „FR VI“ und Krone, im Kreuztopp die Nummern-Flagge „1.“, im Großtopp Namenswimpel mit den dänischen Farben, im Vortopp die Dreyersche Reedereiflagge. 11 Leute sind an Deck. Links im Hintergrund ein Blankeneser Pfahlewer und ein Stück Ufer, rechts ein Ewer und eine Brigg vor der Hafeneinfahrt und Stadtsilhouette von Glückstadt.</p:description>
+      <p:actor>
+         <p:name>unbekannt</p:name>
+         <p:birthYear/>
+         <p:deathYear/>
+      </p:actor>
+      <p:date>
+         <p:earliestDate>1826</p:earliestDate>
+         <p:latestDate>1832</p:latestDate>
+      </p:date>
+      <p:materials_techniques>
+         <p:material>Karton</p:material>
+         <p:technique>Federzeichnung</p:technique>
+         <p:technique>Aquarell</p:technique>
+      </p:materials_techniques>
+      <p:resourceLink>http://resources.digicult-museen.net/dam/provided_image/m57d825261ed43</p:resourceLink>
+   </p:painting>
+   <p:painting>
+      <p:title>Galeasse AMPHITRITE</p:title>
+      <p:description>Schiff von Backbordseite dargestellt, unter allen Segeln einschließlich der Leesegel vor dem Winde fahrend. In den Toppen der Dannebrog mit Zirkel „C 7“ und ein langer schmaler Wimpel. 8 Leute und 1 Hund an Bord zu sehen. Im Hintergrund links ankernde Schiffe und Türme der Stadt Riga. Die Darstellung ist leicht in die Perspektive gerückt, so daß der Spiegel und das Vorschiffsdeck sichtbar sind. Die Beschriftung rechts unten „Gebaut von Hans J. Böttger 1805.“ ist auf einem gesonderten Papier geschrieben und aufgeklebt.</p:description>
+      <p:actor>
+         <p:name>unbekannt</p:name>
+         <p:birthYear/>
+         <p:deathYear/>
+      </p:actor>
+      <p:date>
+         <p:earliestDate>1805</p:earliestDate>
+         <p:latestDate>1809</p:latestDate>
+      </p:date>
+      <p:materials_techniques>
+         <p:material>Büttenpapier</p:material>
+         <p:technique>Federzeichnung</p:technique>
+         <p:technique>Aquarell</p:technique>
+      </p:materials_techniques>
+      <p:resourceLink>http://resources.digicult-museen.net/dam/provided_image/m57d825268b3b7</p:resourceLink>
+   </p:painting>
+   <p:painting>
+      <p:title>Schnaubrigg ANNA MARIA</p:title>
+      <p:description>Schiff von Backbord achtern gezeigt, unter allen Segeln vor dem Winde laufend. Die Bramsegel sind gefiert und aufgegeit und werden gerade festgemacht. Der Anker ist klar zum Fallen. Das Schiff segelt in die Bucht von Neapel ein. Am Heck weht die dänische Flagge mit Zirkel „C 7“ und Krone, im Großtopp der dänische Wimpel. 10 Personen auf dem Schiff, davon 4 auf den Bramrahen. Links im Hintergrund der Hafen von Neapel mit Vesuv, nach rechts zieht sich die Bucht von Neapel.</p:description>
+      <p:actor>
+         <p:name>unbekannt</p:name>
+         <p:birthYear/>
+         <p:deathYear/>
+      </p:actor>
+      <p:date>
+         <p:earliestDate>1795</p:earliestDate>
+         <p:latestDate>1795</p:latestDate>
+      </p:date>
+      <p:materials_techniques>
+         <p:material>Papier</p:material>
+         <p:technique>Federzeichnung</p:technique>
+         <p:technique>Aquarell</p:technique>
+      </p:materials_techniques>
+      <p:resourceLink>http://resources.digicult-museen.net/dam/provided_image/m57d82527054a4</p:resourceLink>
+   </p:painting>
+   <p:painting>
+      <p:title>Schnaubrigg ANNA MARIA</p:title>
+      <p:description>Schiff von Steuerbordseite gezeigt, vor Neapel in der Bucht von Napoli vor Anker liegend. Am Heck und am Vorsteven weht der Dannebrog mit Zirkel „C 7“ und Krone, im Großtopp der dänische Wimpel. 5 Personen auf dem Schiff, davon eine in den Vor- und Unterwanten. Im Hintergrund links der Hafen von Neapel mit Vesuv, nach rechts zieht sich die Bucht von Neapel.</p:description>
+      <p:actor>
+         <p:name>unbekannt</p:name>
+         <p:birthYear/>
+         <p:deathYear/>
+      </p:actor>
+      <p:date>
+         <p:earliestDate>1796</p:earliestDate>
+         <p:latestDate>1796</p:latestDate>
+      </p:date>
+      <p:materials_techniques>
+         <p:material>Papier</p:material>
+         <p:technique>Federzeichnung</p:technique>
+         <p:technique>Aquarell</p:technique>
+      </p:materials_techniques>
+      <p:resourceLink>http://resources.digicult-museen.net/dam/provided_image/m57d82527a2f5e</p:resourceLink>
+   </p:painting>
+   <p:painting>
+      <p:title>Dreimastgaliot</p:title>
+      <p:description>Das Schiff wird von Backbord achtern gezeigt; es segelt vor dem Wind. Fockbram- und Blindsegel festgemacht, Großsegel aufgegeit und Großbramsegel gefiert. Flaggen: dänische Handelsflagge für den Mittelmeeraum am Heck (Zirkel: Christian VII.), langer, schmaler Wimpel im Großtopp. 12 Personen an Deck, davon 2 Personen in den Großunterwanten aufenternd. Links im Hintergrund dasselbe Schiff und vor dem Horizont weitere Fahrzeuge; rechts im Hintergrund Küste mit Hafen und Gebäude.</p:description>
+      <p:actor>
+         <p:name>Jessen, Jes</p:name>
+         <p:birthYear>1743</p:birthYear>
+         <p:deathYear>1807</p:deathYear>
+      </p:actor>
+      <p:date>
+         <p:earliestDate>1766</p:earliestDate>
+         <p:latestDate>1766</p:latestDate>
+      </p:date>
+      <p:materials_techniques>
+         <p:material>Leinwand</p:material>
+         <p:material>Ölfarbe</p:material>
+         <p:technique>Malerei</p:technique>
+      </p:materials_techniques>
+      <p:resourceLink>http://resources.digicult-museen.net/dam/provided_image/m57d82528358b7</p:resourceLink>
+   </p:painting>
+   <p:painting>
+      <p:title>Schnaubrigg ARGUS</p:title>
+      <p:description>Schiff von Steuerbordseite gezeigt, vor dem Winde segelnd. Das Großsegel ist aufgegeit, das Großstagsegel aufgetucht. Am Heck weht der Dannebrog mit Zirkel „F 6“ und Krone, im Großtopp ein lange schmaler Wimpel. An Deck sind 6 Leute. Rechts im Hintergrund eine Insel mit Turm, eventuell ein Leuchtturm; außerdem dasselbe Schiff von achtern gesehen, am Winde segelnd. Es besteht eine Ähnlichkeit bezüglich Stil, Bildaufbau und der nahezu orthogonalen Darstellung des Schiffes in beiden Ansichten mit den Schiffsporträts der DORIS (Inventarnummer AB05301) und der AMPHITRITE (Inventarnummer AB05279). Daher möglicherweise Michel Jensen zuzuschreiben.</p:description>
+      <p:actor>
+         <p:name>Jensen, Michel</p:name>
+         <p:birthYear/>
+         <p:deathYear/>
+      </p:actor>
+      <p:date>
+         <p:earliestDate>1810</p:earliestDate>
+         <p:latestDate>1810</p:latestDate>
+      </p:date>
+      <p:materials_techniques>
+         <p:material>Büttenpapier</p:material>
+         <p:technique>Federzeichnung</p:technique>
+         <p:technique>Aquarell</p:technique>
+      </p:materials_techniques>
+      <p:resourceLink>http://resources.digicult-museen.net/dam/provided_image/m57d82528a331f</p:resourceLink>
+   </p:painting>
+   <p:painting>
+      <p:title>Schnaubrigg LOUISA AUGUSTA</p:title>
+      <p:description>Schiff von Backbordseite dargestellt, auf Reede vor Anker liegend. Es wehen am Heck der Dannebrog mit Zirkel „C 7“ und Krone sowie im Großtopp ein langer schmaler gespaltener Wimpel. An Bord 7 Personen. Links weiter hinten dieselbe Brigg von achtern gesehen, mit gesetzten Segeln bei halbem Wind laufend. Im Hintergrund links eine gebirgige Küste, rechts eine Stadtsilhouette. Auf dem Befestigungsturm weht die (blau?)-weiß-rote Flagge. Es ist möglich, daß Livorno gemeint ist, da die LOUISA AUGUSTA zwischen 1792 und 1801 spanische und italienische Mittelmeerhäfen, u.a. Livorno, angelaufen hat.</p:description>
+      <p:actor>
+         <p:name>unbekannt</p:name>
+         <p:birthYear/>
+         <p:deathYear/>
+      </p:actor>
+      <p:date>
+         <p:earliestDate>1791</p:earliestDate>
+         <p:latestDate>1801</p:latestDate>
+      </p:date>
+      <p:materials_techniques>
+         <p:material>Büttenpapier</p:material>
+         <p:technique>Kupferstich</p:technique>
+      </p:materials_techniques>
+      <p:resourceLink>http://resources.digicult-museen.net/dam/provided_image/m57d8252915847</p:resourceLink>
+   </p:painting>
+   <p:painting>
+      <p:title>Galiot DIE GUTE HOFFNUNG</p:title>
+      <p:description>Das Schiff wird von der Backbordseite gezeigt. Es läuft mit allen Segeln auf Backbordbug mit Backstagsbrise, ein Beiboot wird mitgezogen. Flaggen: Dannebrog im Besantopp, Wimpel mit dänischen Farben im inneren oberen Eck und mit den Buchstaben „HP“ im Großtopp. Die Flaggen wehen regelwidrig nach achtern aus. 4 Personen an Deck. Die Durchführung der Zeichnung und der Malerei ist unsicher und ungeübt, gleichwohl sind die dargestellten technischen Details des Schiffes alle richtig.</p:description>
+      <p:actor>
+         <p:name>unbekannt</p:name>
+         <p:birthYear/>
+         <p:deathYear/>
+      </p:actor>
+      <p:date>
+         <p:earliestDate>1800</p:earliestDate>
+         <p:latestDate>1800</p:latestDate>
+      </p:date>
+      <p:materials_techniques>
+         <p:material>Papier</p:material>
+         <p:material>Grafitstift</p:material>
+         <p:technique>Federzeichnung</p:technique>
+         <p:technique>Aquarell</p:technique>
+      </p:materials_techniques>
+      <p:resourceLink>http://resources.digicult-museen.net/dam/provided_image/m57d8252999eba</p:resourceLink>
+   </p:painting>
+   <p:painting>
+      <p:title>Schnaubrigg VRIND SCHIP</p:title>
+      <p:description>Schiff von Backbordseite gezeigt, unter Schwerwetterbesegelung auf Steuerbordbug vor dem Wind laufend. Gesetzt ist ein kleines Klüver, die gereffte Fock, das gereffte Großstag-, das gereffte Großmars- und das gereffte Briggsegel. Die Bramstengen sind gefiert, die Bramrahen an Deck genommen. Das Schiff läuft in einer groben See. Flagge: Dannebrog mit Zirkel „C 7“ und Krone. An Deck 8 Personen, die sich mit den Leinen beschäftigen. Rechts etwas weiter hinten dasselbe Schiff in orthogonaler Darstellung als Heckansicht. Beflaggung wie oben.</p:description>
+      <p:actor>
+         <p:name>unbekannt</p:name>
+         <p:birthYear/>
+         <p:deathYear/>
+      </p:actor>
+      <p:date>
+         <p:earliestDate>1795</p:earliestDate>
+         <p:latestDate>1803</p:latestDate>
+      </p:date>
+      <p:materials_techniques>
+         <p:material>Büttenpapier</p:material>
+         <p:technique>Federzeichnung</p:technique>
+         <p:technique>Aquarell</p:technique>
+      </p:materials_techniques>
+      <p:resourceLink>http://resources.digicult-museen.net/dam/provided_image/m57d8252a36cc8</p:resourceLink>
+   </p:painting>
+   <p:painting>
+      <p:title>Vollschiff "Florida von New York"</p:title>
+      <p:description>Das Schiff wird mit allen gesetzten Segeln Steuerbordbug fahrend von Backbordseite gezeigt. Flaggen: US-Flagge an der Monkeygaffel (lt. Beschluß des Repräsentantenhauses vom 13.04.1818 Anordnung der 20 Sterne in Form eines 5armigen Sterns; wird kurz danach wieder zugunsten der Reihenanordnung aufgehoben), 3teiliges U.S. im Kreuztopp (Marryat-Code: Telegraphenflagge + evtl. falsch ausgeführter Flagge Nr. 7 und Nr. 3 = „gewöhnt“), Namenswimpel im Großtopp, im Vortopp die Flagge von Antwerpen. 9 Personen an Deck. Links im Hintergrund Vlissingen; rechts im Hintergrund Lotsenschoner Nr. 9, Antwerpen und am Horizont weitere Fahrzeuge.</p:description>
+      <p:actor>
+         <p:name>Weyts, Petrus Cornelius</p:name>
+         <p:birthYear>1799</p:birthYear>
+         <p:deathYear>1855</p:deathYear>
+      </p:actor>
+      <p:date>
+         <p:earliestDate>1843</p:earliestDate>
+         <p:latestDate>1845</p:latestDate>
+      </p:date>
+      <p:materials_techniques>
+         <p:material>Glas</p:material>
+         <p:technique>Maltechnik</p:technique>
+      </p:materials_techniques>
+      <p:resourceLink>http://resources.digicult-museen.net/dam/provided_image/m57d8252aaa1bb</p:resourceLink>
+   </p:painting>
+   <p:painting>
+      <p:title>Galeasse CONCORDIA</p:title>
+      <p:description>Beide Schiffe von Steuerbordseite – leicht von vorn gesehen – dargestellt. Die havarierte „Gallias“ CONCORDIA, bei der nur noch der Besanmast steht, befindet sich im Schlepp eines amerikanischen Kriegsschiffes, das unter allen Segeln auf Steuerbordbug am Wind segelt; die Royals sind gefiert, werden wahrscheinlich gerade geborgen. Flaggen am Kriegsschiff: US-Flagge an der Kreuzgaffel, blau-weißer schmaler, langer Wimpel im Großtopp. Dannebrog ohne Ordinale im Topp der „Gallias“. 9 Personen an Deck des Kriegsschiffes (naive, vereinfachende, aber lebendige Darstellung). Zwischen den Texten sich kreuzende Waffen, Kanonenrohre und Fahnen.</p:description>
+      <p:actor>
+         <p:name>unbekannt</p:name>
+         <p:birthYear/>
+         <p:deathYear/>
+      </p:actor>
+      <p:date>
+         <p:earliestDate>1800</p:earliestDate>
+         <p:latestDate>1800</p:latestDate>
+      </p:date>
+      <p:materials_techniques>
+         <p:material>Karton</p:material>
+         <p:technique>Federzeichnung</p:technique>
+         <p:technique>Aquarell</p:technique>
+      </p:materials_techniques>
+      <p:resourceLink>http://resources.digicult-museen.net/dam/provided_image/m57d8252b4ac96</p:resourceLink>
+   </p:painting>
+   <p:painting>
+      <p:title>Brigg VERBESSERUNG</p:title>
+      <p:description>Schiff von Steuerbordseite gezeigt, am Wind segelnd. Die Bramsegel sind festgemacht. An der Gaffel der Dannebrog mit Zirkel „FR“ und Krone. An Deck sind 4 Leute. Links im Hintergrund ein weiteres Segelfahrzeug, rechts im Hintergrund eine steile Felseninsel, darüber Wolken.</p:description>
+      <p:actor>
+         <p:name>Hansen,</p:name>
+         <p:birthYear/>
+         <p:deathYear/>
+      </p:actor>
+      <p:date>
+         <p:earliestDate>1821</p:earliestDate>
+         <p:latestDate>1825</p:latestDate>
+      </p:date>
+      <p:materials_techniques>
+         <p:material>Papier</p:material>
+         <p:technique>Aquarell</p:technique>
+         <p:technique>Federzeichnung</p:technique>
+      </p:materials_techniques>
+      <p:resourceLink>http://resources.digicult-museen.net/dam/provided_image/m57d8252be0cfc</p:resourceLink>
+   </p:painting>
+   <p:painting>
+      <p:title>Jacht ANNA CHATHARINA</p:title>
+      <p:description>Das Schiff wird von der Steuerbordseite unter allen Segeln am Wind fahrend gezeigt. Danebrog am Heck. 4 Personen an Deck. Links dasselbe Schiff noch einmal von backbord achtern mit allen Segeln einschließlich der Breitfock bei halbem Wind segelnd dargestellt. 4 Personen an Deck. Hintergrund entweder Helnäs/Fünen oder Keldsnor/Langeland oder NW-Ecke von Seeland.</p:description>
+      <p:actor>
+         <p:name>Johnsen-Sebøy, Ole</p:name>
+         <p:birthYear>1792</p:birthYear>
+         <p:deathYear>1843</p:deathYear>
+      </p:actor>
+      <p:date>
+         <p:earliestDate>1824</p:earliestDate>
+         <p:latestDate>1824</p:latestDate>
+      </p:date>
+      <p:materials_techniques>
+         <p:material>Papier</p:material>
+         <p:technique>Aquarell</p:technique>
+         <p:technique>Federzeichnung</p:technique>
+      </p:materials_techniques>
+      <p:resourceLink>http://resources.digicult-museen.net/dam/provided_image/m57d8252c4f6a4</p:resourceLink>
+   </p:painting>
+   <p:painting>
+      <p:title>Brigg TRITON</p:title>
+      <p:description>Schiff von Backbordseite gezeigt, mit allen Segeln, auch den Leesegeln, auf Backbordbug vor dem Winde fahrend. Groß- und Briggsegel sind teilweise aufgegeit. Vorstengestagsegel und Fockgaffelsegel sind festgemacht. An der Gaffel Dannebrog mit Zirkel [schlecht lesbar, wohl „FR“]. 10 Leute an Deck. Links am Horizont ein Blankeneser Pfahlewer.</p:description>
+      <p:actor>
+         <p:name>Böttger, Jacob Ahrend Hinrich</p:name>
+         <p:birthYear>1781</p:birthYear>
+         <p:deathYear>1860</p:deathYear>
+      </p:actor>
+      <p:date>
+         <p:earliestDate>1831</p:earliestDate>
+         <p:latestDate>1831</p:latestDate>
+      </p:date>
+      <p:materials_techniques>
+         <p:material>Papier</p:material>
+         <p:technique>Federzeichnung</p:technique>
+         <p:technique>Aquarell</p:technique>
+      </p:materials_techniques>
+      <p:resourceLink>http://resources.digicult-museen.net/dam/provided_image/m57d8252cb0859</p:resourceLink>
+   </p:painting>
+   <p:painting>
+      <p:title>Brigg DIE FRAU ANKA &amp; CHATHARINA</p:title>
+      <p:description>Schiff von Backbordseite gezeigt, mit allen Segeln am Winde auf Steuerbordbug fahrend. An der Gaffel der Dannebrog mit Zirkel „FR“, ebenso im Vortopp. Im Großtopp Reedereiwimpel „J. H. Bohnenberg“ mit den dänischen Farben am Liek. 7 Personen an Deck. Sehr naive Darstellung.</p:description>
+      <p:actor>
+         <p:name>Momsen, M. H.</p:name>
+         <p:birthYear>1814</p:birthYear>
+         <p:deathYear>1907</p:deathYear>
+      </p:actor>
+      <p:date>
+         <p:earliestDate>1857</p:earliestDate>
+         <p:latestDate>1857</p:latestDate>
+      </p:date>
+      <p:materials_techniques>
+         <p:material>Papier</p:material>
+         <p:technique>Federzeichnung</p:technique>
+         <p:technique>Aquarell</p:technique>
+      </p:materials_techniques>
+      <p:resourceLink>http://resources.digicult-museen.net/dam/provided_image/m57d8252d291da</p:resourceLink>
+   </p:painting>
+   <p:painting>
+      <p:title>Brigg "Catharina von Altona"</p:title>
+      <p:description>Schiff von Steuerbordseite gezeigt, segelt vor dem Winde auf Backbordbug. Alle Segel gesetzt, Großsegel wird aufgegeit. Flaggenführung: am Heck Dannebrog mit Zirkel „C 7“ und Krone, in den Toppen 2 lange Wimpel. 8 Personen an Deck, davon ein Junge, sowie Bordhund. Im Hintergrund links Landschaft und ein Leuchtturm sowie die CATHARINA in Heckansicht. Im Hintergrund rechts weitere Segelschiffe.</p:description>
+      <p:actor>
+         <p:name>unbekannt</p:name>
+         <p:birthYear/>
+         <p:deathYear/>
+      </p:actor>
+      <p:date>
+         <p:earliestDate>1806</p:earliestDate>
+         <p:latestDate>1809</p:latestDate>
+      </p:date>
+      <p:materials_techniques>
+         <p:material>Glas</p:material>
+         <p:material>Karton</p:material>
+         <p:material>Ölfarbe</p:material>
+         <p:technique>Maltechnik</p:technique>
+         <p:technique>Aquarell</p:technique>
+      </p:materials_techniques>
+      <p:resourceLink>http://resources.digicult-museen.net/dam/provided_image/m57d8252d9e4fc</p:resourceLink>
+   </p:painting>
+   <p:painting>
+      <p:title>Fregatte DORIS</p:title>
+      <p:description>Schiff von Backbordseite gezeigt, unter allen Segeln einschließlich der Leesegel auf Steuerbordbug fahrend. An der Gaffel der Dannebrog mit Zirkel „C 7“ und Krone. Im Großtopp weht ein langer dänischer Wimpel. An Bord sind 11 Personen und 1 Hund. Links am Horizont ein zylindrischer Turm mit einem Kranbalken, an dem 3 Bälle untereinander hängen. Daneben eine felsige Insel. Rechts die Heckansicht desselben Schiffes. Die Darstellung des Rumpfes und der Masten ist orthogonal, auch des Schiffes in Heckansicht.</p:description>
+      <p:actor>
+         <p:name>Jensen, Michel</p:name>
+         <p:birthYear/>
+         <p:deathYear/>
+      </p:actor>
+      <p:date>
+         <p:earliestDate>1800</p:earliestDate>
+         <p:latestDate>1806</p:latestDate>
+      </p:date>
+      <p:materials_techniques>
+         <p:material>Papier</p:material>
+         <p:technique>Federzeichnung</p:technique>
+         <p:technique>Aquarell</p:technique>
+      </p:materials_techniques>
+      <p:resourceLink>http://resources.digicult-museen.net/dam/provided_image/m57d8252e2606a</p:resourceLink>
+   </p:painting>
+   <p:painting>
+      <p:title>Schnaubrigg LOUISA AUGUSTA</p:title>
+      <p:description>Schiff von Backbordseite dargestellt, auf Reede vor Anker liegend. Es wehen am Heck der Dannebrog mit Zirkel „C 7“ und Krone sowie im Großtopp ein langer schmaler gespaltener Wimpel. An Bord 7 Personen. Links weiter hinten dieselbe Brigg von achtern gesehen, mit gesetzten Segeln bei halbem Wind laufend. Im Hintergrund links eine gebirgige Küste, rechts eine Stadtsilhouette. Auf dem Befestigungsturm weht die (blau?)-weiß-rote Flagge. Es ist möglich, daß Livorno gemeint ist, da die LOUISA AUGUSTA zwischen 1792 und 1801 spanische und italienische Mittelmeerhäfen, u.a. Livorno, angelaufen hat.</p:description>
+      <p:actor>
+         <p:name>unbekannt</p:name>
+         <p:birthYear/>
+         <p:deathYear/>
+      </p:actor>
+      <p:date>
+         <p:earliestDate>1791</p:earliestDate>
+         <p:latestDate>1801</p:latestDate>
+      </p:date>
+      <p:materials_techniques>
+         <p:material>Büttenpapier</p:material>
+         <p:material>Karton</p:material>
+         <p:technique>Kupferstich</p:technique>
+      </p:materials_techniques>
+      <p:resourceLink>http://resources.digicult-museen.net/dam/provided_image/m57d8252e975c0</p:resourceLink>
+   </p:painting>
+   <p:painting>
+      <p:title>Schnaubrigg LOUISA AUGUSTA</p:title>
+      <p:description>Schiff von Backbordseite dargestellt, auf Reede vor Anker liegend. Es wehen am Heck der Dannebrog mit Zirkel „C 7“ und Krone sowie im Großtopp ein langer schmaler gespaltener Wimpel. An Bord 7 Personen. Links weiter hinten dieselbe Brigg von achtern gesehen, mit gesetzten Segeln bei halbem Wind laufend. Im Hintergrund links eine gebirgige Küste, rechts eine Stadtsilhouette. Auf dem Befestigungsturm weht die (blau?)-weiß-rote Flagge. Es ist möglich, daß Livorno gemeint ist, da die LOUISA AUGUSTA zwischen 1792 und 1801 spanische und italienische Mittelmeerhäfen, u.a. Livorno, angelaufen hat.</p:description>
+      <p:actor>
+         <p:name>unbekannt</p:name>
+         <p:birthYear/>
+         <p:deathYear/>
+      </p:actor>
+      <p:date>
+         <p:earliestDate>1791</p:earliestDate>
+         <p:latestDate>1801</p:latestDate>
+      </p:date>
+      <p:materials_techniques>
+         <p:material>Büttenpapier</p:material>
+         <p:technique>Kupferstich</p:technique>
+      </p:materials_techniques>
+      <p:resourceLink>http://resources.digicult-museen.net/dam/provided_image/m57d8252f0506a</p:resourceLink>
+   </p:painting>
+   <p:painting>
+      <p:title>Brigg DIE ROSE</p:title>
+      <p:description>Schiff von Steuerbord achtern gesehen, mit allen Segeln und Backstagsbrise laufend. Die Royals sind im halbgefierten Zustand. Im Großmast ein farbiger Wimpel mit den Dannebrogfarben am Liek. 6 Personen an Deck. Die Darstellung befand sich wahrscheinlich als Seitenabbildung auf einem größeren Schiffsporträt. Die Bildunterschrift ist offensichtlich eine spätere Hinzufügung.</p:description>
+      <p:actor>
+         <p:name>unbekannt</p:name>
+         <p:birthYear/>
+         <p:deathYear/>
+      </p:actor>
+      <p:date>
+         <p:earliestDate>1799</p:earliestDate>
+         <p:latestDate>1799</p:latestDate>
+      </p:date>
+      <p:materials_techniques>
+         <p:material>Papier</p:material>
+         <p:technique>Federzeichnung</p:technique>
+         <p:technique>Aquarell</p:technique>
+      </p:materials_techniques>
+      <p:resourceLink>http://resources.digicult-museen.net/dam/provided_image/m57d8252f6322b</p:resourceLink>
+   </p:painting>
+   <p:painting>
+      <p:title>Pink SUPERBE</p:title>
+      <p:description>Schiff von Steuerbordseite gezeigt, alle Segel gesetzt außer Großsegel, das aufgegeit ist, mit halbem Wind auf Backbordbug segelnd. An der Gaffel Dannebrog mit Zirkel „C 7“. 8 Leute an Deck. Die See ist leicht bewegt. Rechts im Hintergrund schemenhaft eine Gebirgsküste. Kommentar: Die Darstellung ist trotz der schematisierten Seitenansicht der Schiffsporträts, die der einer technischen Zeichnung gleicht, äußerst lebendig und weicht insbesondere in der Perspektive, in der Wiedergabe von Licht und Schatten, in der Farbmodulierung und der wie in der Realität vorzufindenden Ungleichmäßigkeiten im Rigg ab. Hervorzuheben ist auch die lebensnahe Darstellung der menschlichen Figuren, die alle irgendeiner nachvollziehbaren Beschäftigung nachgehen.</p:description>
+      <p:actor>
+         <p:name>Roux, Ange Joseph Antoine</p:name>
+         <p:birthYear>1765</p:birthYear>
+         <p:deathYear>1835</p:deathYear>
+      </p:actor>
+      <p:date>
+         <p:earliestDate>1805</p:earliestDate>
+         <p:latestDate>1805</p:latestDate>
+      </p:date>
+      <p:materials_techniques>
+         <p:material>Büttenpapier</p:material>
+         <p:technique>Federzeichnung</p:technique>
+         <p:technique>Aquarell</p:technique>
+      </p:materials_techniques>
+      <p:resourceLink>http://resources.digicult-museen.net/dam/provided_image/m57d8252fc4e14</p:resourceLink>
+   </p:painting>
+   <p:painting>
+      <p:title>Fregatte</p:title>
+      <p:description>Das Schiff wird von Steuerbordseite dargestellt, alle Segel gesetzt, Rahen nur leicht angebraßt. Die Flagge weht regelwidrig nach achtern aus. Die orthogonale Darstellung des Rumpfes (Überwasserteile), der Masten und Stengen und des stehenden Gutes ist maßstabsgetreu, worauf eine im Unterrand des Bildes eingezeichnete Fußskala hinweist, die als Länge zwischen den Loten 106 Fott angibt. Auf Steuerbordseite sind 5 Geschütze und Geschützpforten erkennbar. Dänische Flagge am Heck. Der Zirkel in der Flagge ist von Christian VII. Außerdem langer schmaler Wimpel mit den Farben der dänischen Flagge im Großtopp. 13 Personen an Deck.</p:description>
+      <p:actor>
+         <p:name>unbekannt</p:name>
+         <p:birthYear/>
+         <p:deathYear/>
+      </p:actor>
+      <p:date>
+         <p:earliestDate>1766</p:earliestDate>
+         <p:latestDate>1808</p:latestDate>
+      </p:date>
+      <p:materials_techniques>
+         <p:material>Büttenpapier</p:material>
+      </p:materials_techniques>
+      <p:resourceLink>http://resources.digicult-museen.net/dam/provided_image/m57d82530263d0</p:resourceLink>
+   </p:painting>
+   <p:painting>
+      <p:title>Schnaubrigg</p:title>
+      <p:description>Das Schiff wird von Steuerbordseite gezeigt. Es fährt mit allen Segeln einschließlich der Leesegel auf Steuerbordbug. Lübecker Flagge an der Gaffel. Die Darstellung befindet sich im konstruktiven Stadium der Vorzeichnung für die großen Flächen (Rumpf und Segel). Diese sind auch schon farblich angelegt, ebenfalls die Flächen für Rotfarbigkeit der Flögel in den beiden Toppen und der Lübecker Flagge an der Gaffel. Die Horizontlinie ist mit einem dünnen Bleistiftstrich gekennzeichnet und die bewegte Wasserlinie am Schiff schon durch Aussparungen in der Farbe gezeigt. Die dunklen Linien im Rumpf sind schon mit Feder und Tusche nachgezogen, Konturen und Binnenzeichnungen im Rigg noch Bleistift.</p:description>
+      <p:actor>
+         <p:name>unbekannt</p:name>
+         <p:birthYear/>
+         <p:deathYear/>
+      </p:actor>
+      <p:date>
+         <p:earliestDate/>
+         <p:latestDate/>
+      </p:date>
+      <p:materials_techniques>
+         <p:material>Papier</p:material>
+         <p:material>Grafitstift</p:material>
+         <p:technique>Federzeichnung</p:technique>
+         <p:technique>Aquarell</p:technique>
+      </p:materials_techniques>
+      <p:resourceLink>http://resources.digicult-museen.net/dam/provided_image/m57d82530b5005</p:resourceLink>
+   </p:painting>
+   <p:painting>
+      <p:title>Pinkschiff (Dreimastgaliot)</p:title>
+      <p:description>Das Schiff wird von Backbordseite gezeigt. Es fährt unter Mars- und Besansegel, Fock aufgegeit, Vorstagsegel ist gefallen. Dänische Flagge des Mittelmeerraums am Heck (Zirkel: Christian VII.), langer schmaler Wimpel im Großtopp. 10 Personen an Deck. Im Hintergrund links ein Kriegskutter von Steuerbord vorn gesehen am Wind segelnd, rechts im Hintergrund Hafen mit gebirgiger Küste. Rechts oben Kartusche für Beschriftung, Beschriftung total ausgewaschen.</p:description>
+      <p:actor>
+         <p:name>unbekannt</p:name>
+         <p:birthYear/>
+         <p:deathYear/>
+      </p:actor>
+      <p:date>
+         <p:earliestDate>1786</p:earliestDate>
+         <p:latestDate>1800</p:latestDate>
+      </p:date>
+      <p:materials_techniques>
+         <p:material>Büttenpapier</p:material>
+         <p:technique>Aquarell</p:technique>
+         <p:technique>Federzeichnung</p:technique>
+      </p:materials_techniques>
+      <p:resourceLink>http://resources.digicult-museen.net/dam/provided_image/m57d825311e022</p:resourceLink>
+   </p:painting>
 </p:gallery>
