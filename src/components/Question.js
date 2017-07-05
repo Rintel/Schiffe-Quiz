@@ -5,9 +5,9 @@ const Question = ({ url, question, answers, handleAnswerClick }) => {
   return (
     <li className="question">
       <h2 className="question-title">
-        <img src={question} width="30%"/>
+        <img src={url} width="30%"/>
       </h2>
-      <h4 className="question-title">{url}</h4>
+      <h4 className="question-title">{question}</h4>
       <div className="question-container">
         <ul className="question-answers">
           {answers.map(answer => {

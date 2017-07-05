@@ -46,7 +46,7 @@ header {
 .score-container h2, .question-count h2 {
   margin-bottom: 0;
   font-size: 2em;
-  font-weight: 400;
+  font-weight: 200;
 }
 .score, .question-number {
   font-size: 3em;

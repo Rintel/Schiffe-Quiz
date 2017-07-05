@@ -6,11 +6,10 @@ const Quiz = ({ step, questions, totalQuestions, score, handleAnswerClick }) => 
     <div className="wrapper">
       <header>
         <div className="question-count" />
-        <h1>Schiffe Quiz</h1>
+        <h1>XML Schiffe Quiz</h1>
         <div className="score-container">
-          <h2>Score</h2>
+          <h2>Punkte</h2>
           <div className="score">{score}</div>
-          <div className="description">points</div>
         </div>
       </header>
       <div className="correct-modal">

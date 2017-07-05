@@ -52,19 +52,19 @@ class QuizApp extends Component {
         const bonus = document.querySelector('.bonus');
 
         if (tries === 0) {
-          praise.textContent = '1st Try!';
+          praise.textContent = 'Butz! 1. Versuch!';
           bonus.textContent = '+10';
         }
         if (tries === 1) {
-          praise.textContent = '2nd Try!';
+          praise.textContent = '2. Versuch!';
           bonus.textContent = '+5';
         }
         if (tries === 2) {
-          praise.textContent = 'Correct!';
+          praise.textContent = 'Richtig!';
           bonus.textContent = '+2';
         }
         if (tries === 3) {
-          praise.textContent = 'Correct!';
+          praise.textContent = 'Na endlich!';
           bonus.textContent = '+1';
         }
 
