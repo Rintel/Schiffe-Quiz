@@ -12,7 +12,7 @@ const QuestionList = ({ questions, handleAnswerClick }) => {
             answers={question.answers}
             url={question.url}
             handleAnswerClick={handleAnswerClick}
-          />
+            />
         );
       })}
     </div>

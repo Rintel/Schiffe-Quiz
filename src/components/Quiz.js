@@ -20,7 +20,7 @@ const Quiz = ({ step, questions, totalQuestions, score, handleAnswerClick }) => 
         <QuestionList
           questions={questions}
           handleAnswerClick={handleAnswerClick}
-        />
+          />
       </div>
     </div>
   );

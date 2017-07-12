@@ -5,7 +5,7 @@ const Answer = ({ answer, handleAnswerClick }) => {
     <li
       className="question-answer"
       onClick={handleAnswerClick}>
-        {answer}
+      {answer}
     </li>
   );
 }

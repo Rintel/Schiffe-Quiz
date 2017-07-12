@@ -4,8 +4,7 @@ import Results from './Results';
 import shuffleQuestions from '../helpers/shuffleQuestions';
 import { questions } from '../data/quiz-data';
 
-//const QUESTIONS = shuffleQuestions(questions);
-const QUESTIONS = questions;
+const QUESTIONS = shuffleQuestions(questions);
 
 class QuizApp extends Component {
   constructor(props) {

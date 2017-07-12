@@ -16,7 +16,7 @@ const Question = ({ url, question, answers, handleAnswerClick }) => {
                 key={answer}
                 answer={answer}
                 handleAnswerClick={handleAnswerClick}
-              />
+                />
             );
           })}
         </ul>
