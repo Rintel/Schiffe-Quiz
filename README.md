@@ -1,9 +1,11 @@
-# Schiffe Quiz
+# XML - Schiffe Quiz
+
+This application is based on ReactJS, in ordner to run the application see the getting started section:
 
 Getting Started
 ---------------
 
-Clone the repository and run these commands in the shell.
+Clone the repository, navivate to it and run the following shell commands.
 
 ```shell
 $ npm install
